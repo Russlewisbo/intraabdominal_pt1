@@ -1590,11 +1590,13 @@ Pseudomonas aeruginosa)
 |                |                           | prior            |
 |                |                           | carbapenems      |
 +----------------+---------------------------+------------------+
-| Meropenem      | Metallo-β-lactamases,     | Last-resort      |
-| -vaborbactam   | carbapenem-resistant      | therapy          |
+| Meropen        | Metallo-β-lactamases,     | Last-resort      |
+| em-vaborbactam | carbapenem-resistant      | therapy          |
 +----------------+---------------------------+------------------+
 
 ## **Anti-Candida Agents**
+
+<br> <br>
 
 +----------------+------------------+---------------------------+
 | Agent          | Dosing           | When to Use               |
@@ -1681,15 +1683,15 @@ delaying or avoiding surgery.
 
 **Hemodynamic Management**
 
--   **Aggressive fluid resuscitation** (often requires 5-10 L in first
-    24 hours)
--   **Vasopressors** if hypotension persists after fluids
-    (norepinephrine first-line)
+-   Aggressive fluid resuscitation (often requires 5-10 L in first 24
+    hours)
+-   Vasopressors if hypotension persists after fluids (norepinephrine
+    first-line)
 -   Goal: Restore tissue perfusion, prevent organ failure
 
 **Respiratory Support**
 
--   **Mechanical ventilation** if ARDS develops
+-   Mechanical ventilation if ARDS develops
 -   Positive end-expiratory pressure (PEEP) to improve oxygenation
 -   Careful fluid management to balance resuscitation and pulmonary
     edema
@@ -1697,17 +1699,16 @@ delaying or avoiding surgery.
 **Nutritional Support**
 
 -   **Enteral nutrition** when possible (preserves gut mucosa)
--   **Total parenteral nutrition** if unable to tolerate enteral feeds
+-   Total parenteral nutrition if unable to tolerate enteral feeds
 -   Early nutrition improves outcomes and reduces infection risk
 
 **Organ Support**
 
--   **Renal replacement therapy** if acute kidney injury develops
--   **Correcting coagulopathy** (fresh frozen plasma, vitamin K,
-    platelets)
--   **Managing hyperglycemia** (insulin therapy, tight control)
+-   Renal replacement therapy if acute kidney injury develops
+-   Correcting coagulopathy (fresh frozen plasma, vitamin K, platelets)
+-   Managing hyperglycemia (insulin therapy, tight control)
 
-::: aside
+::: notes
 Supportive care intensity often determines outcome as much as
 antimicrobials and source control. Mortality in secondary peritonitis is
 often from SIRS/sepsis and organ dysfunction, not bacterial infection
@@ -1747,7 +1748,7 @@ nutritional intervention are standard in intensive care management.
 -   Drain placement (controversial; generally avoid unless high
     contamination)
 
-::: aside
+::: notes
 Prevention of postoperative peritonitis centers on asepsis, adequate
 blood supply, and early detection of complications. Modern practice
 emphasizes primary repair when possible and avoidance of delayed
@@ -1755,14 +1756,16 @@ complications through prompt re-imaging when clinical deterioration
 occurs.
 :::
 
-------------------------------------------------------------------------
+# Peritoneal-dialysis associated peritonitis {background-color="#9B0014"}
 
-# Peritoneal-dialysis assocaited peritonitis {background-color="#9B0014"}
+## PD-Associated peritonitis: Epidemiology {.smaller}
 
-------------------------------------------------------------------------
+::::: columns
+::: {.column width="50%"}
+![](images/PD.png)
+:::
 
-## PD-Associated peritonitis: Epidemiology
-
+::: {.column width="50%"}
 **Incidence**
 
 -   Major complication of peritoneal dialysis (CAPD, APD)
@@ -1784,8 +1787,10 @@ occurs.
 -   **Break in aseptic technique**
 -   **Peritoneal membrane permeability** changes
 -   **Patient-dependent factors**: poor hygiene, younger age
+:::
+:::::
 
-::: aside
+::: notes
 Touch contamination during bag exchange is the most common cause,
 reflecting the importance of patient education and technique
 optimization. Catheter-related infection (exit-site infection, tunnel
@@ -1796,33 +1801,34 @@ peritonitis is almost exclusively due to exogenous contamination.
 
 ------------------------------------------------------------------------
 
-## PD Peritonitis: Microbiology
+## PD Peritonitis: Microbiology {.smaller}
 
 **Organism Distribution**
 
 +-------------------+----------------------+-------------------+
 | Category          | Prevalence           | Examples          |
 +===================+======================+===================+
-| **Gram-positive** | 60-80%               | S. epidermidis,   |
+| **Gram-positive** | 60-80%               | *S. epidermidis,  |
 |                   |                      | S. aureus,        |
 |                   |                      | Streptococcus     |
-|                   |                      | spp.              |
+|                   |                      | spp.*             |
 +-------------------+----------------------+-------------------+
-| **Gram-negative** | 15-30%               | E. coli,          |
-|                   |                      | Klebsiella,       |
+| **Gram-negative** | 15-30%               | *E. coli,         |
+|                   |                      | Klebsiella*,      |
 |                   |                      | Enterobacterales  |
 +-------------------+----------------------+-------------------+
-| **Fungi**         | 5-10% (increasing)   | Candida spp.,     |
+| **Fungi**         | 5-10% (increasing)   | *Candida spp.*,   |
 |                   |                      | rare molds        |
 +-------------------+----------------------+-------------------+
-| **Mycobacteria**  | \<5%                 | M. tuberculosis   |
-|                   |                      | (geographic       |
+| **Mycobacteria**  | \<5%                 | *M.               |
+|                   |                      | tubercu           |
+|                   |                      | losis*(geographic |
 |                   |                      | dependent)        |
 +-------------------+----------------------+-------------------+
 
 **Common Pathogens**
 
--   **Coagulase-negative staphylococci (S. epidermidis)**: Most common
+-   **Coagulase-negative staphylococci (*S. epidermidis*)**: Most common
     gram-positive
 -   **S. aureus**: Often from patient's skin flora, more virulent
 -   **Streptococcus spp.**: May indicate bowel translocation
@@ -1835,7 +1841,7 @@ peritonitis is almost exclusively due to exogenous contamination.
 -   Protects from immune response and antibiotics
 -   May require catheter removal for cure
 
-::: aside
+::: notes
 The dominance of gram-positives (unlike secondary peritonitis) reflects
 skin contamination as the source. Multiple episodes in the same patient
 may prompt testing for exit-site infection or tunnel infection.
@@ -1897,8 +1903,8 @@ Some centers use BACTEC automated systems to improve organism recovery.
 | **Cefazolin**  | 500 mg/2 L exchanges / 125   | Gram-positive  |
 |                | mg/2 L                       | coverage       |
 +----------------+------------------------------+----------------+
-| -   \*C        | 500 mg/2 L exchanges / 125   | Gram-negative, |
-| eftazidime\*\* | mg/2 L                       | Pseudomonas    |
+| Ceftazidime    | 500 mg/2 L exchanges / 125   | Gram-negative, |
+|                | mg/2 L                       | Pseudomonas    |
 +----------------+------------------------------+----------------+
 | **Vancomycin** | 30 mg/kg loading / 15 mg/kg  | MRSA,          |
 |                | per exchange                 | resistant      |
@@ -1918,7 +1924,7 @@ Some centers use BACTEC automated systems to improve organism recovery.
 -   Remove catheter for fungal peritonitis (usually)
 -   Remove if exit-site or tunnel infection present
 
-::: aside
+::: smaller
 IP administration achieves high local concentrations and is preferred to
 IV therapy. Continuous IP exposure (via each exchange) maintains levels
 better than intermittent dosing. Patient tolerance of continued CAPD
@@ -1928,7 +1934,7 @@ therapy and temporary hemodialysis.
 
 ------------------------------------------------------------------------
 
-## PD Peritonitis: Fungal and Mycobacterial Infection
+## PD Peritonitis: Fungal and Mycobacterial Infection {.smaller}
 
 **Fungal PD Peritonitis**
 
@@ -1966,7 +1972,7 @@ considered in high-risk patients with chronic, low-grade peritonitis.
 
 ------------------------------------------------------------------------
 
-## PD Peritonitis: Outcomes and Catheter Removal {.aside}
+## PD Peritonitis: Outcomes and Catheter Removal {.smaller}
 
 **Outcomes with Treatment**
 
@@ -1977,7 +1983,6 @@ considered in high-risk patients with chronic, low-grade peritonitis.
 
 **Indications for Catheter Removal**
 
-::: incremental
 -   **Fungal peritonitis** (almost universally)
 -   **Failure to respond** by 4-5 days of therapy
 -   **Exit-site or tunnel infection** with peritonitis
@@ -1985,7 +1990,6 @@ considered in high-risk patients with chronic, low-grade peritonitis.
     imaging)
 -   **Refractory peritonitis** (multiple episodes with same organism)
 -   **Patient choice** (prefer hemodialysis)
-:::
 
 **Prevention of Recurrence**
 

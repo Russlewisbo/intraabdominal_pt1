@@ -20,7 +20,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <center>
 
-Prof. Russell Lewis <br> Department of Molecular Medicine <br> University of Padua
+Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of Padua
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} https://github.com/Russlewisbo
 
@@ -36,7 +36,7 @@ Prof. Russell Lewis <br> Department of Molecular Medicine <br> University of Pad
 
 ## Learning Objectives
 
-::: incremental
+
 1.  Classify intraabdominal infections (primary vs. secondary vs. tertiary)
 2.  Understand epidemiology and risk factors for each infection type
 3.  Master the microbiology and pathogenesis of IAI
@@ -47,7 +47,7 @@ Prof. Russell Lewis <br> Department of Molecular Medicine <br> University of Pad
 8.  Diagnose and treat intraperitoneal abscesses
 9.  Risk-stratify patients for prognosis and outcomes
 10. Implement prevention strategies for secondary prophylaxis
-:::
+
 
 ::: notes
 These objectives guide the presentation and help learners understand the key competencies needed to manage intraabdominal infections in clinical practice.
@@ -57,7 +57,11 @@ These objectives guide the presentation and help learners understand the key com
 
 ## Definition and Classification
 
-**Peritonitis:** Inflammatory response within the peritoneal cavity due to microbial or chemical contamination.
+**Peritonitis:** Inflammatory response within the peritoneal cavity due to microbial or chemical contamination
+
+<br>
+
+![](images/peritoneum.png){fig-align="center" width="330"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -84,11 +88,13 @@ The definition emphasizes that peritonitis is fundamentally an inflammatory resp
 
 ## Primary vs. Secondary vs. Tertiary
 
+<br> <br>
+
 | Feature | Primary | Secondary | Tertiary |
-|------------------|------------------|--------------------|------------------|
-| **Intraabdominal source** | None | Present (perforation, ischemia) | Persistent after source control |
+|------------------|------------------|-------------------|------------------|
+| **Intraabdominal source** | None | Present <br>(perforation, ischemia) | Persistent after source control |
 | **Frequency** | \~1% of peritonitis | 80-90% of cases | Less common |
-| **Typical organisms** | Monomicrobial GN | Polymicrobial aerobic/anaerobic | MDR, low-virulence |
+| **Typical organisms** | Monomicrobial gram-negative | Polymicrobial aerobic/anaerobic | MDR, gram-negative <br>low-virulence |
 | **Mortality** | 5-20% | 10-40% | 30-64% |
 
 ::: notes
@@ -99,16 +105,18 @@ This table encapsulates the clinical distinctions. Primary peritonitis lacks an 
 
 ## Community-Acquired vs. Healthcare-Associated
 
+<br>
+
 **Community-Acquired** (\~80% of IAI)
 
 -   Further subdivided: low-risk vs. high-risk
 -   Risk factors: drug-resistant bacteria, severity (mild/moderate/severe), comorbidities
--   Common pathogens: E. coli, Klebsiella, anaerobes
+-   Common pathogens: *E. coli, Klebsiella*, anaerobes
 
 **Healthcare-Associated**
 
 -   Complications of elective or emergency abdominal surgery
--   Nosocomial isolates (MRSA, MDR gram-negatives, Candida)
+-   Nosocomial isolates (MRSA, MDR gram-negatives, *Candida*)
 -   Higher mortality and morbidity
 
 ::: notes
@@ -118,6 +126,8 @@ This distinction affects empiric antibiotic selection. Community-acquired infect
 ------------------------------------------------------------------------
 
 ## Uncomplicated vs. Complicated Infections
+
+<br> <br>
 
 **Uncomplicated IAI**
 
@@ -138,17 +148,39 @@ Uncomplicated infections typically respond well to antibiotics alone, though som
 
 ------------------------------------------------------------------------
 
-## SECTION 1: PRIMARY PERITONITIS (SBP)
+# PRIMARY PERITONITIS (SBP) {background-color="#9B0014"}
 
 ------------------------------------------------------------------------
 
-## Primary Peritonitis: Epidemiology
+## Primary Peritonitis: Epidemiology <br> <br>
 
-**Prevalence** - Accounts for \~1% of all peritonitis cases - Present in 10-30% of hospitalized cirrhotic patients with ascites
+::::: columns
+::: {.column width="25%"}
+![](images/cirrhosis.png)
+:::
 
-**High-Risk Patient Groups** - Cirrhosis (alcoholic, postnecrotic, cryptogenic) - Congestive heart failure - Nephrotic syndrome - Metastatic malignancy - Systemic lupus erythematosus - Rarely in patients with no underlying disease
+::: {.column width="75%"}
+-   **Prevalence** - Accounts for \~1% of all peritonitis cases
 
-::: notes
+    -   Present in 10-30% of hospitalized cirrhotic patients with ascites
+
+-   **High-Risk Patient Groups**
+
+    -   Cirrhosis (alcoholic, postnecrotic, cryptogenic)
+
+    -   Congestive heart failure
+
+    -   Nephrotic syndrome
+
+    -   Metastatic malignancy
+
+    -   Systemic lupus erythematosus
+
+    -   Rare in patients with no underlying disease
+:::
+:::::
+
+::: aside
 The key insight is that any condition producing ascites increases SBP risk. Cirrhosis is the most common underlying disease. In children, acute viral hepatitis and streptococcal infections are relatively more frequent. The presence of high-volume ascites (Child-Turcotte-Pugh class C or high MELD) is a major risk factor.
 :::
 
@@ -156,7 +188,17 @@ The key insight is that any condition producing ascites increases SBP risk. Cirr
 
 ## Risk Factors for SBP Development
 
-::: incremental
+
+
+
+:::: columns
+
+::: {.column width="25%"}
+![](images/ascitis.png){width="388"}
+:::
+
+::: {.column width="75%"}
+<br> <br>
 -   **High-volume ascites** (advanced cirrhosis, Child-Pugh class C)
 -   **High Model for End-Stage Liver Disease (MELD) score**
 -   **Coexisting gastrointestinal hemorrhage**
@@ -164,9 +206,10 @@ The key insight is that any condition producing ascites increases SBP risk. Cirr
 -   **Low ascitic fluid protein** (\<1 g/dL)
 -   **Elevated serum bilirubin** (\>2.5 mg/dL)
 -   **Proton pump inhibitor use** (reduces gastric acidity, increases translocation)
-:::
 
-::: notes
+::::
+
+::: aside
 These risk factors reflect compromised host defenses and increased bacterial translocation. GI bleeding particularly increases the risk because of direct inoculation of bacteria into the peritoneal cavity and subsequent bacteremia. Low protein content in ascites correlates with reduced opsonic activity and impaired complement-mediated bacterial killing.
 :::
 
@@ -174,11 +217,12 @@ These risk factors reflect compromised host defenses and increased bacterial tra
 
 ## Primary Peritonitis: Microbiology
 
+<br>
+
 **Defining Characteristic:** Monomicrobial infection
 
 **Most Common Organisms (in cirrhotic patients)**
 
-::: incremental
 1.  **Escherichia coli** (most frequent)
 2.  **Klebsiella pneumoniae**
 3.  Other Enterobacterales
@@ -186,7 +230,6 @@ These risk factors reflect compromised host defenses and increased bacterial tra
 5.  Other streptococci (including enterococci)
 6.  Anaerobes (uncommon)
 7.  Pseudomonas (rare)
-:::
 
 **Gram-Negative Dominance** - 60-69% of cases caused by gram-negative enteric bacteria - Organisms presumed of gastrointestinal origin
 
@@ -978,7 +1021,7 @@ Tertiary peritonitis represents a transition to palliative care in many cases. A
 **Risk Stratification**
 
 | Risk Category | Features | Typical Organisms |
-|------------------------|------------------|------------------------------|
+|------------------------|-------------------|-----------------------------|
 | **Low-risk** | Community-acquired, no recent hospitalization, no immunosuppression | Susceptible gram-negatives, anaerobes |
 | **High-risk** | Healthcare-associated, recent surgery, immunosuppressed, prolonged hospitalization | MDR gram-negatives, MRSA, Candida, enterococci |
 
@@ -1062,7 +1105,7 @@ Metronidazole remains the anaerobic agent of choice due to activity against Bact
 **Extended-Spectrum Agents**
 
 | Agent | Organism Coverage | When to Use |
-|-----------------|---------------------------------|----------------------|
+|-------------------|-------------------------------|----------------------|
 | **Ceftolozane-tazobactam** | Pseudomonas, resistant GN | Healthcare-associated, MDR risk |
 | **Ceftazidime-avibactam** | Carbapenem-resistant organisms, ESBLs | Suspected resistance, prior carbapenems |
 | **Meropenem-vaborbactam** | Metallo-β-lactamases, carbapenem-resistant | Last-resort therapy |
@@ -1070,7 +1113,7 @@ Metronidazole remains the anaerobic agent of choice due to activity against Bact
 **Anti-Candida Agents**
 
 | Agent | Dosing | When to Use |
-|-------------------|----------------------|--------------------------------|
+|-------------------|----------------------|-------------------------------|
 | **Fluconazole** | 400-800 mg/day | Upper GI perforation, prolonged hospitalization |
 | **Anidulafungin** | 200 mg loading, then 100 mg/day | Suspected azole-resistant Candida |
 | **Caspofungin** | 70 mg loading, then 50 mg/day | Alternative to fluconazole |
@@ -1293,7 +1336,7 @@ The ISPD criteria are sensitive and allow treatment initiation before culture co
 **Standard IP Regimens**
 
 | Agent | Dosing (Bolus/Maintenance) | Target |
-|---------------|------------------------------------------|---------------|
+|-------------------|----------------------------------|-------------------|
 | **Cefazolin** | 500 mg/2 L exchanges / 125 mg/2 L | Gram-positive coverage |
 | **Ceftazidime** | 500 mg/2 L exchanges / 125 mg/2 L | Gram-negative, Pseudomonas |
 | **Vancomycin** | 30 mg/kg loading / 15 mg/kg per exchange | MRSA, resistant gram-positive |
@@ -1398,7 +1441,7 @@ Patient technique training and infection prevention are paramount in reducing CA
 **Common Locations**
 
 | Location                | Frequency | Clinical Features                     |
-|-------------------------|-----------|---------------------------------------|
+|---------------------|-------------------|--------------------------------|
 | **Pelvic**              | 30-40%    | Dependent site; difficult to examine  |
 | **Paracolic gutters**   | 20-30%    | Follow colon anatomy                  |
 | **Subphrenic**          | 15-20%    | Upper abdomen; may irritate diaphragm |
@@ -1519,7 +1562,7 @@ CT is the imaging gold standard and serves dual purposes: diagnosis and guidance
 **Percutaneous vs. Surgical Drainage**
 
 | Factor | Percutaneous | Surgical |
-|------------------|-------------------------------|-----------------------|
+|-------------------|------------------------------|-----------------------|
 | **Access** | Image-guided (CT/US) | Direct visualization |
 | **Invasiveness** | Minimally invasive | Formal operation |
 | **Morbidity** | Lower | Higher (general anesthesia, incisions) |
@@ -1713,7 +1756,7 @@ These red flags help clinicians escalate empiric therapy beyond standard regimen
 ## Quick Reference: Empiric Antibiotic Selection by Scenario
 
 | Clinical Scenario | First-Line Empiric | Alternative | Duration |
-|--------------------|--------------------|----------------|----------------|
+|------------------|------------------|------------------|------------------|
 | **Primary peritonitis (SBP)** | Cefotaxime 2g Q6-8H | Ciprofloxacin 400mg PO Q12H | 5 days |
 | **Secondary peritonitis, CA** | Piperacillin-tazobactam 4.5g Q6-8H | Ceftriaxone 2g Q12H + metronidazole 500mg TID | 10-14 days |
 | **Secondary peritonitis, HA** | Cephalosporin + vancomycin + anti-Candida | Carbapenem ± anti-fungal | 10-14 days |

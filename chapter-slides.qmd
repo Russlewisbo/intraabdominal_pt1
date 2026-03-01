@@ -34,6 +34,9 @@ University of Padua
 
 </center>
 
+|                                |                                  |
+|--------------------------------|----------------------------------|
+| ![](images/dmmunipd_logo.jpeg) | ![](images/unipd_seal_white.svg) |
 
 ------------------------------------------------------------------------
 
@@ -98,23 +101,29 @@ important for diagnostic imaging and source control planning.
 
 <br> <br>
 
-+-------------------+------------+--------------------------+----------------------------+
-| Feature           | Primary    | Secondary                | Tertiary                   |
-+===================+============+==========================+============================+
-| Intraabdominal    | None       | Present <br>            | Persistent after source    |
-| source            |            | (perforation, ischemia)  | <br>control                |
-+-------------------+------------+--------------------------+----------------------------+
-| Frequency         | \~1% of    | 80-90% of cases          | Less common                |
-|                   | perit    |                          |                            |
-|                   | onitis     |                          |                            |
-+-------------------+------------+--------------------------+----------------------------+
-| Typical           | Mon        | Polymicrobial            | MDR, gram - negative <br>  |
-|                   | omicrobial | aerobic/anaerobic        | low irulence               |
-| organisms         | gram-      |                          |                            |
-|                   | negative   |                          |                            |
-+-------------------+------------+--------------------------+----------------------------+
-| Mortality         | 5-20%      | 10-40%                   | 30-64%                     |
-+-------------------+------------+--------------------------+----------------------------+
++--------------+--------------+-----------------+-------------------+
+| Feature      | Primary      | Secondary       | Tertiary          |
++==============+==============+=================+===================+
+| In           | None         | Present <br> \| |                   |
+| traabdominal |              | Persistent      |                   |
+| source       |              | after source \| |                   |
+|              |              | (perforation,   |                   |
+|              |              | ischemia) \|    |                   |
+|              |              | <br>control     |                   |
++--------------+--------------+-----------------+-------------------+
+|              |              | Frequency       | \~1% of \| 80-90% |
+|              |              |                 | of cases \| Less  |
+|              |              |                 | common perit \|   |
+|              |              |                 | \| \| onitis \|   |
+|              |              |                 | \|                |
++--------------+--------------+-----------------+-------------------+
+| Typical      | Mon          | Polymicrobial   | MDR, gram -       |
+|              | omicrobial   | ae              | negative <br> low |
+| organisms    | gram-        | robic/anaerobic | irulence          |
+|              | negative     |                 |                   |
++--------------+--------------+-----------------+-------------------+
+| Mortality    | 5-20%        | 10-40%          | 30-64%            |
++--------------+--------------+-----------------+-------------------+
 
 ::: notes
 This table encapsulates the clinical distinctions. Primary peritonitis
@@ -734,36 +743,38 @@ intervention or percutaneous drainage alongside antimicrobial therapy.
 
 <br> <br>
 
-+-----------------------+-------------------------+
-| Organ System          | Common Causes           |
-+=======================+=========================+
-| **Upper GI**          | Perforated peptic       |
-|                       | ulcer, perforated       |
-|                       | gastric ulcer           |
-+-----------------------+-------------------------+
-| **Small bowel**       | Meckel's                |
-|                       | diverticulitis, small   |
-|                       | bowel perforation,      |
-|                       | ischemic necrosis       |
-+-----------------------+-------------------------+
-| **Appendix**          | Perforated appendicitis |
-+-----------------------+-------------------------+
-| **Colon**             | Diverticulitis          |
-|                       | (perforation), toxic    |
-|                       | megacolon, ischemic     |
-|                       | colitis                 |
-+-----------------------+-------------------------+
-| **Biliary**           | Perforation of          |
-|                       | gallbladder,            |
-|                       | cholangitis             |
-+-----------------------+-------------------------+
-| **Gynecologic**       | Ruptured tubo-ovarian   |
-|                       | abscess, perforated     |
-|                       | ovarian cyst            |
-+-----------------------+-------------------------+
-| **Trauma**            | Iatrogenic or           |
-|                       | penetrating perforation |
-+-----------------------+-------------------------+
++-----------------------+------------------------+
+| Organ System          | Common Causes          |
++=======================+========================+
+| **Upper GI**          | Perforated peptic      |
+|                       | ulcer, perforated      |
+|                       | gastric ulcer          |
++-----------------------+------------------------+
+| **Small bowel**       | Meckel's               |
+|                       | diverticulitis, small  |
+|                       | bowel perforation,     |
+|                       | ischemic necrosis      |
++-----------------------+------------------------+
+| **Appendix**          | Perforated             |
+|                       | appendicitis           |
++-----------------------+------------------------+
+| **Colon**             | Diverticulitis         |
+|                       | (perforation), toxic   |
+|                       | megacolon, ischemic    |
+|                       | colitis                |
++-----------------------+------------------------+
+| **Biliary**           | Perforation of         |
+|                       | gallbladder,           |
+|                       | cholangitis            |
++-----------------------+------------------------+
+| **Gynecologic**       | Ruptured tubo-ovarian  |
+|                       | abscess, perforated    |
+|                       | ovarian cyst           |
++-----------------------+------------------------+
+| **Trauma**            | Iatrogenic or          |
+|                       | penetrating            |
+|                       | perforation            |
++-----------------------+------------------------+
 
 ::: aside
 This table emphasizes that secondary peritonitis can originate from
@@ -853,31 +864,34 @@ carries higher mortality and requires broader empiric coverage.
 
 **Dominant Organisms**
 
-+--------------+--------------+--------------+
-| Category     | Examples     | Prevalence   |
-+==============+==============+==============+
-| -   \        | *E. coli,    | 60-80%       |
-|     \*       | Klebsiella,  |              |
-|     G        | Proteus,     |              |
-| ram-negative | E            |              |
-|     rods\*\* | nterobacter* |              |
-+--------------+--------------+--------------+
-| *            | *Bacteroides | 60-90%       |
-| *Anaerobes** | fragilis*,   |              |
-|              | anaerobic    |              |
-|              | cocci,       |              |
-|              | *            |              |
-|              | Clostridium* |              |
-+--------------+--------------+--------------+
-| -   \        | S            | 40-60%       |
-|     \*       | t            |              |
-|     G        | reptococcus, |              |
-| ram-positive | E            |              |
-|              | nterococcus, |              |
-|    cocci\*\* | S            |              |
-|              | t            |              |
-|              | aphylococcus |              |
-+--------------+--------------+--------------+
++-------------+-------------+-------------+
+| Category    | Examples    | Prevalence  |
++=============+=============+=============+
+| -   \       | *E. coli,   | 60-80%      |
+|     \* G    | Klebsiella, |             |
+|     r       | Proteus, E  |             |
+| am-negative | n           |             |
+|             | terobacter* |             |
+|    rods\*\* |             |             |
++-------------+-------------+-------------+
+| -   \*An    | *           | 60-90%      |
+| aerobes\*\* | Bacteroides |             |
+|             | fragilis*,  |             |
+|             | anaerobic   |             |
+|             | cocci,      |             |
+|             | *C          |             |
+|             | lostridium* |             |
++-------------+-------------+-------------+
+| -   \       | S t         | 40-60%      |
+|     \* G    | r           |             |
+|     r       | eptococcus, |             |
+| am-positive | E           |             |
+|             | n           |             |
+| cocci\*\*   | terococcus, |             |
+|             | S t         |             |
+|             | a           |             |
+|             | phylococcus |             |
++-------------+-------------+-------------+
 
 ::: aside
 The polymicrobial nature of secondary peritonitis contrasts sharply with
@@ -1190,25 +1204,26 @@ respective areas of concern in each panel.
 
 **Fluid Analysis**
 
-+---------------------------+---------------------+
-| Parameter                 | Finding             |
-+===========================+=====================+
-| **Appearance**            | Turbid, purulent,   |
-|                           | bloody              |
-+---------------------------+---------------------+
-| **PMN count**             | Usually             |
-|                           | \>50,000/mm³ in     |
-|                           | secondary           |
-|                           | peritonitis         |
-+---------------------------+---------------------+
-| **Gram stain**            | May show            |
-|                           | gram-negative rods, |
-|                           | gram-positive       |
-|                           | cocci, anaerobes    |
-+---------------------------+---------------------+
-| **Culture**               | Polymicrobial       |
-|                           | growth expected     |
-+---------------------------+---------------------+
++---------------------------+--------------------+
+| Parameter                 | Finding            |
++===========================+====================+
+| **Appearance**            | Turbid, purulent,  |
+|                           | bloody             |
++---------------------------+--------------------+
+| **PMN count**             | Usually            |
+|                           | \>50,000/mm³ in    |
+|                           | secondary          |
+|                           | peritonitis        |
++---------------------------+--------------------+
+| **Gram stain**            | May show           |
+|                           | gram-negative      |
+|                           | rods,              |
+|                           | gram-positive      |
+|                           | cocci, anaerobes   |
++---------------------------+--------------------+
+| **Culture**               | Polymicrobial      |
+|                           | growth expected    |
++---------------------------+--------------------+
 
 **Clinical Utility**
 
@@ -1356,25 +1371,25 @@ goals given high mortality.
 
 **Risk Stratification**
 
-+----------------+----------------+-----------------+
-| Risk Category  | Features       | Typical         |
-|                |                | Organisms       |
-+================+================+=================+
-| **Low-risk**   | Commu          | Susceptible     |
-|                | nity-acquired, | gram-negatives, |
-|                | no recent ho   | anaerobes       |
-|                | spitalization, |                 |
-|                | no imm         |                 |
-|                | unosuppression |                 |
-+----------------+----------------+-----------------+
-| **High-risk**  | Healthca       | MDR             |
-|                | re-associated, | gram-negatives, |
-|                | recent         | MRSA, Candida,  |
-|                | surgery, imm   | enterococci     |
-|                | unosuppressed, |                 |
-|                | prolonged h    |                 |
-|                | ospitalization |                 |
-+----------------+----------------+-----------------+
++----------------+----------------+----------------+
+| Risk Category  | Features       | Typical        |
+|                |                | Organisms      |
++================+================+================+
+| **Low-risk**   | Commu          | Susceptible    |
+|                | nity-acquired, | g              |
+|                | no recent ho   | ram-negatives, |
+|                | spitalization, | anaerobes      |
+|                | no imm         |                |
+|                | unosuppression |                |
++----------------+----------------+----------------+
+| **High-risk**  | Healthca       | MDR            |
+|                | re-associated, | g              |
+|                | recent         | ram-negatives, |
+|                | surgery, imm   | MRSA, Candida, |
+|                | unosuppressed, | enterococci    |
+|                | prolonged h    |                |
+|                | ospitalization |                |
++----------------+----------------+----------------+
 
 **Timing**
 
@@ -1395,42 +1410,47 @@ presentation.
 
 **Beta-Lactams with Beta-Lactamase Inhibitors**
 
-+--------------+--------------+--------------+
-| Agent        | Dosing       | Notes        |
-+==============+==============+==============+
-| ## \*\       | 875-125 mg   | Oral;        |
-| *Amoxicillin | TID          | limited      |
-|              |              | spectrum     |
-| cla          |              |              |
-| vulanate\*\* |              |              |
-+--------------+--------------+--------------+
-| **Ampicill i | 3 g IV Q6H   | Good         |
-| n            |              | anaerobic    |
-| -sulbactam** |              | coverage     |
-+--------------+--------------+--------------+
-| *            | 4.5 g IV     | Excellent    |
-| *Piperacilli | Q6-8H        | coverage;    |
-| n            |              | pseudomonal  |
-| -            |              |              |
-| tazobactam** |              |              |
-+--------------+--------------+--------------+
++-------------+-------------+-------------+
+| Agent       | Dosing      | Notes       |
++=============+=============+=============+
+| ## \*       | 875-125 mg  | Oral;       |
+|             | TID         | limited     |
+| \*          |             | spectrum    |
+| Amoxicillin |             |             |
+|             |             |             |
+| cla         |             |             |
+| v           |             |             |
+| ulanate\*\* |             |             |
++-------------+-------------+-------------+
+| **Ampicill  | 3 g IV Q6H  | Good        |
+| i n         |             | anaerobic   |
+| -           |             | coverage    |
+| sulbactam** |             |             |
++-------------+-------------+-------------+
+| -   \*      | 4.5 g IV    | Excellent   |
+| Piperacilli | Q6-8H       | coverage;   |
+|     n       |             | pseudomonal |
+| -   taz     |             |             |
+| obactam\*\* |             |             |
++-------------+-------------+-------------+
 
 **Cephalosporins (typically combined with metronidazole)**
 
-+--------------+--------------+--------------+
-| Agent        | Dosing       | Notes        |
-+==============+==============+==============+
-| Ceftriaxone  | 2 g IV       | Lower        |
-|              | Q12H +       | pseudomonal  |
-|              | m            | coverage     |
-|              | etronidazole |              |
-|              | 500 mg TID   |              |
-+--------------+--------------+--------------+
-| Ceftazidime  | 2 g IV Q8H + | Better       |
-|              | m            | *            |
-|              | etronidazole | Pseudomonas* |
-|              | 500 mg TID   | coverage     |
-+--------------+--------------+--------------+
++-------------+-------------+-------------+
+| Agent       | Dosing      | Notes       |
++=============+=============+=============+
+| Ceftriaxone | 2 g IV      | Lower       |
+|             | Q12H + m    | pseudomonal |
+|             | e           | coverage    |
+|             | tronidazole |             |
+|             | 500 mg TID  |             |
++-------------+-------------+-------------+
+| Ceftazidime | 2 g IV      | Better      |
+|             | Q8H + m     | *P          |
+|             | e           | seudomonas* |
+|             | tronidazole | coverage    |
+|             | 500 mg TID  |             |
++-------------+-------------+-------------+
 
 **Carbapenems** (broad spectrum, reserve use)
 
@@ -1489,83 +1509,138 @@ history with ESBLs
 
 # New antibiotics active against resistant <br>gram-negative bacilli {.smaller}
 
-+------+------+------+------+------+------+------+------+
-|      | **ES | **A  |      | *    |      | **C  | **C  |
-|      | B    | m    | **K  | *OXA | **M  | R    | R    |
-|      | Ls** | pC** | PC** | -    | BL** | AB** | PA** |
-|      |      |      |      | 48** |      |      |      |
-+======+:====:+:====:+:====:+:====:+:====:+:====:+:====:+
-| **   | √    | √    | √    | √    | ±    | X    | X    |
-| Plaz |      |      |      |      |      |      |      |
-| omic |      |      |      |      |      |      |      |
-| in** |      |      |      |      |      |      |      |
-| (not |      |      |      |      |      |      |      |
-| in   |      |      |      |      |      |      |      |
-| EU)  |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| Erav | √    | √    | √    | √    | √    | √    | X    |
-| acyc |      |      |      |      |      |      |      |
-| line |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| **T  | √    | √    | √    | √    | √    | √    | X    |
-| igec |      |      |      |      |      |      |      |
-| ycli |      |      |      |      |      |      |      |
-| ne** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| **   | √    | √    | √    | X    | X    | X    | X    |
-| Temo |      |      |      |      |      |      |      |
-| cill |      |      |      |      |      |      |      |
-| in** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| **   | √    | √    | √    | √    | √    | √    | √    |
-| Cefi |      |      |      |      |      |      |      |
-| dero |      |      |      |      |      |      |      |
-| ol** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| **C  | √    | √    | √    | √    | X    | X    | ±    |
-| efta |      |      |      |      |      |      |      |
-| zidi |      |      |      |      |      |      |      |
-| me/a |      |      |      |      |      |      |      |
-| vibt |      |      |      |      |      |      |      |
-| am** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| C    | √    | X    | X    | X    | X    | X    | √    |
-| efto |      |      |      |      |      |      |      |
-| loza |      |      |      |      |      |      |      |
-| ne/  |      |      |      |      |      |      |      |
-| tazo |      |      |      |      |      |      |      |
-| atam |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| *    | √    | √    | √    | X    | X    | X    | X    |
-| *Mer |      |      |      |      |      |      |      |
-| open |      |      |      |      |      |      |      |
-| em/v |      |      |      |      |      |      |      |
-| abor |      |      |      |      |      |      |      |
-| bact |      |      |      |      |      |      |      |
-| am** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-| **I  | √    | √    | √    | X    | X    | X    | ±    |
-| mipe |      |      |      |      |      |      |      |
-| nem/ |      |      |      |      |      |      |      |
-| rele |      |      |      |      |      |      |      |
-| bact |      |      |      |      |      |      |      |
-| am** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
-|      | √    | √    | √    | √    | √    | X    | ±    |
-| **   |      |      |      |      |      |      |      |
-| Ampi |      |      |      |      |      |      |      |
-| cill |      |      |      |      |      |      |      |
-| in/s |      |      |      |      |      |      |      |
-| ulba |      |      |      |      |      |      |      |
-| ctam |      |      |      |      |      |      |      |
-| plus |      |      |      |      |      |      |      |
-| cef  |      |      |      |      |      |      |      |
-| tazi |      |      |      |      |      |      |      |
-| dime |      |      |      |      |      |      |      |
-| /avi |      |      |      |      |      |      |      |
-| bact |      |      |      |      |      |      |      |
-| am** |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+
++-----+-----+-----+-----+-----+-----+-----+-----+
+|     | *   | **A | **K | -   | **M | **C | **C |
+|     | *ES | m   | P   |  \* | B   | R   | R   |
+|     | B   | p   | C** | OXA | L** | A   | P   |
+|     | L   | C** |     | -   |     | B** | A** |
+|     | s** |     |     |     |     |     |     |
+|     |     |     |     | 48\ |     |     |     |
+|     |     |     |     | *\* |     |     |     |
++=====+:===:+:===:+:===:+:===:+:===:+:===:+:===:+
+|     | √   | √   | √   | √   | ±   | X   | X   |
+| **P |     |     |     |     |     |     |     |
+| laz |     |     |     |     |     |     |     |
+| o   |     |     |     |     |     |     |     |
+| mic |     |     |     |     |     |     |     |
+| i   |     |     |     |     |     |     |     |
+| n** |     |     |     |     |     |     |     |
+| (   |     |     |     |     |     |     |     |
+| not |     |     |     |     |     |     |     |
+| in  |     |     |     |     |     |     |     |
+| EU) |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+| E   | √   | √   | √   | √   | √   | √   | X   |
+| rav |     |     |     |     |     |     |     |
+| a   |     |     |     |     |     |     |     |
+| cyc |     |     |     |     |     |     |     |
+| l   |     |     |     |     |     |     |     |
+| ine |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+| **T | √   | √   | √   | √   | √   | √   | X   |
+| i   |     |     |     |     |     |     |     |
+| gec |     |     |     |     |     |     |     |
+| y   |     |     |     |     |     |     |     |
+| cli |     |     |     |     |     |     |     |
+| n   |     |     |     |     |     |     |     |
+| e** |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+|     | √   | √   | √   | X   | X   | X   | X   |
+| **T |     |     |     |     |     |     |     |
+| emo |     |     |     |     |     |     |     |
+| c   |     |     |     |     |     |     |     |
+| ill |     |     |     |     |     |     |     |
+| i   |     |     |     |     |     |     |     |
+| n** |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+|     | √   | √   | √   | √   | √   | √   | √   |
+| **C |     |     |     |     |     |     |     |
+| efi |     |     |     |     |     |     |     |
+| d   |     |     |     |     |     |     |     |
+| ero |     |     |     |     |     |     |     |
+| o   |     |     |     |     |     |     |     |
+| l** |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+| **C | √   | √   | √   | √   | X   | X   | ±   |
+| e   |     |     |     |     |     |     |     |
+| fta |     |     |     |     |     |     |     |
+| z   |     |     |     |     |     |     |     |
+| idi |     |     |     |     |     |     |     |
+| m   |     |     |     |     |     |     |     |
+| e/a |     |     |     |     |     |     |     |
+| v   |     |     |     |     |     |     |     |
+| ibt |     |     |     |     |     |     |     |
+| a   |     |     |     |     |     |     |     |
+| m** |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+| C   | √   | X   | X   | X   | X   | X   | √   |
+| e   |     |     |     |     |     |     |     |
+| fto |     |     |     |     |     |     |     |
+| l   |     |     |     |     |     |     |     |
+| oza |     |     |     |     |     |     |     |
+| ne/ |     |     |     |     |     |     |     |
+| t   |     |     |     |     |     |     |     |
+| azo |     |     |     |     |     |     |     |
+| a   |     |     |     |     |     |     |     |
+| tam |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+| -   | √   | √   | √   | X   | X   | X   | X   |
+|  \* |     |     |     |     |     |     |     |
+| Mer |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|   o |     |     |     |     |     |     |     |
+| pen |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|   e |     |     |     |     |     |     |     |
+| m/v |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|   a |     |     |     |     |     |     |     |
+| bor |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|   b |     |     |     |     |     |     |     |
+| act |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+| am\ |     |     |     |     |     |     |     |
+| *\* |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+| **I | √   | √   | √   | X   | X   | X   | ±   |
+| m   |     |     |     |     |     |     |     |
+| ipe |     |     |     |     |     |     |     |
+| n   |     |     |     |     |     |     |     |
+| em/ |     |     |     |     |     |     |     |
+| r   |     |     |     |     |     |     |     |
+| ele |     |     |     |     |     |     |     |
+| b   |     |     |     |     |     |     |     |
+| act |     |     |     |     |     |     |     |
+| a   |     |     |     |     |     |     |     |
+| m** |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
+|     | √   | √   | √   | √   | √   | X   | ±   |
+| **A |     |     |     |     |     |     |     |
+| mpi |     |     |     |     |     |     |     |
+| c   |     |     |     |     |     |     |     |
+| ill |     |     |     |     |     |     |     |
+| i   |     |     |     |     |     |     |     |
+| n/s |     |     |     |     |     |     |     |
+| u   |     |     |     |     |     |     |     |
+| lba |     |     |     |     |     |     |     |
+| c   |     |     |     |     |     |     |     |
+| tam |     |     |     |     |     |     |     |
+| p   |     |     |     |     |     |     |     |
+| lus |     |     |     |     |     |     |     |
+| cef |     |     |     |     |     |     |     |
+| t   |     |     |     |     |     |     |     |
+| azi |     |     |     |     |     |     |     |
+| d   |     |     |     |     |     |     |     |
+| ime |     |     |     |     |     |     |     |
+| /   |     |     |     |     |     |     |     |
+| avi |     |     |     |     |     |     |     |
+| b   |     |     |     |     |     |     |     |
+| act |     |     |     |     |     |     |     |
+| a   |     |     |     |     |     |     |     |
+| m** |     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+
 
 ::: aside
 To treat ESBL- or AmpC-producing Enterobacterales, all above antibiotics
@@ -1586,59 +1661,60 @@ Pseudomonas aeruginosa)
 
 **Extended-Spectrum Agents**
 
-+----------------+-------------------+----------------+
-| Agent          | Organism Coverage | When to Use    |
-+================+===================+================+
-| Ceftoloz       | Pseudomonas,      | Health         |
-| ane-tazobactam | resistant GN      | ca             |
-|                |                   | re-associated, |
-|                |                   | MDR risk       |
-+----------------+-------------------+----------------+
-| Ceftazi        | Car               | Suspected      |
-| dime-avibactam | bapenem-resistant | resistance,    |
-|                | organisms, ESBLs  | prior          |
-|                |                   | carbapenems    |
-+----------------+-------------------+----------------+
-| Meropen        | M e t             | Last-resort    |
-| em-vaborbactam | a                 | therapy        |
-|                | llo-β-lactamases, |                |
-|                | car               |                |
-|                | bapenem-resistant |                |
-+----------------+-------------------+----------------+
++----------------+------------------+----------------+
+| Agent          | Organism         | When to Use    |
+|                | Coverage         |                |
++================+==================+================+
+| Ceftoloz       | Pseudomonas,     | Health ca      |
+| ane-tazobactam | resistant GN     | re-associated, |
+|                |                  | MDR risk       |
++----------------+------------------+----------------+
+| Ceftazi        | Car              | Suspected      |
+| dime-avibactam | b                | resistance,    |
+|                | apenem-resistant | prior          |
+|                | organisms, ESBLs | carbapenems    |
++----------------+------------------+----------------+
+| Meropen        | M e t a          | Last-resort    |
+| em-vaborbactam | l                | therapy        |
+|                | lo-β-lactamases, |                |
+|                | car              |                |
+|                | b                |                |
+|                | apenem-resistant |                |
++----------------+------------------+----------------+
 
 ## **Anti-Candida Agents**
 
 <br> <br>
 
-+----------------+----------------+-------------------+
-| Agent          | Dosing         | When to Use       |
-+================+================+===================+
-| Fluconazole    | 400-800 mg/day | Upper GI          |
-|                |                | perforation,      |
-|                |                | prolonged         |
-|                |                | hospitalization   |
-+----------------+----------------+-------------------+
-| Anidulafungin  | 200 mg         | Suspected         |
-|                | loading, then  | azole-resistant   |
-|                | 100 mg/day     | Candida           |
-+----------------+----------------+-------------------+
-| Caspofungin    | 70 mg loading, | Alternative to    |
-|                | then 50 mg/day | fluconazole,      |
-|                |                | Suspected         |
-|                |                | azole-resistant   |
-|                |                | Candida           |
-+----------------+----------------+-------------------+
-| Micafungin     | 100 mg daily   | Alternative to    |
-|                |                | fluconazole,      |
-|                |                | Suspected         |
-|                |                | azole-resistant   |
-|                |                | Candida           |
-+----------------+----------------+-------------------+
-| Liposomal      | 3-5 mg/kg/day  | Suspected         |
-| amphotericin B |                | azole-resistant   |
-|                |                | Candida,          |
-|                |                | nephrotoxic       |
-+----------------+----------------+-------------------+
++----------------+----------------+------------------+
+| Agent          | Dosing         | When to Use      |
++================+================+==================+
+| Fluconazole    | 400-800 mg/day | Upper GI         |
+|                |                | perforation,     |
+|                |                | prolonged        |
+|                |                | hospitalization  |
++----------------+----------------+------------------+
+| Anidulafungin  | 200 mg         | Suspected        |
+|                | loading, then  | azole-resistant  |
+|                | 100 mg/day     | Candida          |
++----------------+----------------+------------------+
+| Caspofungin    | 70 mg loading, | Alternative to   |
+|                | then 50 mg/day | fluconazole,     |
+|                |                | Suspected        |
+|                |                | azole-resistant  |
+|                |                | Candida          |
++----------------+----------------+------------------+
+| Micafungin     | 100 mg daily   | Alternative to   |
+|                |                | fluconazole,     |
+|                |                | Suspected        |
+|                |                | azole-resistant  |
+|                |                | Candida          |
++----------------+----------------+------------------+
+| Liposomal      | 3-5 mg/kg/day  | Suspected        |
+| amphotericin B |                | azole-resistant  |
+|                |                | Candida,         |
+|                |                | nephrotoxic      |
++----------------+----------------+------------------+
 
 ## **Vancomycin**
 
@@ -1826,31 +1902,35 @@ peritonitis is almost exclusively due to exogenous contamination.
 
 **Organism Distribution**
 
-+--------------+--------------+--------------+
-| Category     | Prevalence   | Examples     |
-+==============+==============+==============+
-| Gram         | 60-80%       | *S.          |
-| -positive    |              | epidermidis, |
-|              |              | S. aureus,   |
-|              |              | S            |
-|              |              | treptococcus |
-|              |              | spp.*        |
-+--------------+--------------+--------------+
-| G            | 15-30%       | *E. coli,    |
-| ram-negative |              | Klebsiella*, |
-|              |              | Ente         |
-|              |              | robacterales |
-+--------------+--------------+--------------+
-| **Fungi**    | 5-10%        | *Candida     |
-|              | (increasing) | spp.*, rare  |
-|              |              | molds        |
-+--------------+--------------+--------------+
-| Mycobacteria | \<5%         | *M.          |
-|              |              | t            |
-|              |              | uberculosis* |
-|              |              | (geographic  |
-|              |              | dependent)   |
-+--------------+--------------+--------------+
++-------------+-------------+-------------+
+| Category    | Prevalence  | Examples    |
++=============+=============+=============+
+| Gram        | 60-80%      | *S.         |
+| -positive   |             | e           |
+|             |             | pidermidis, |
+|             |             | S. aureus,  |
+|             |             | S           |
+|             |             | t           |
+|             |             | reptococcus |
+|             |             | spp.*       |
++-------------+-------------+-------------+
+| G           | 15-30%      | *E. coli,   |
+| r           |             | K           |
+| am-negative |             | lebsiella*, |
+|             |             | Ente        |
+|             |             | r           |
+|             |             | obacterales |
++-------------+-------------+-------------+
+| **Fungi**   | 5-10%       | *Candida    |
+|             | (           | spp.*, rare |
+|             | increasing) | molds       |
++-------------+-------------+-------------+
+| M           | \<5%        | *M. t       |
+| ycobacteria |             | u           |
+|             |             | berculosis* |
+|             |             | (geographic |
+|             |             | dependent)  |
++-------------+-------------+-------------+
 
 **Common Pathogens**
 
@@ -1923,20 +2003,22 @@ Some centers use BACTEC automated systems to improve organism recovery.
 
 **Standard IP Regimens**
 
-+----------------+----------------------+----------------+
-| Agent          | Dosing               | Target         |
-|                | (Bolus/Maintenance)  |                |
-+================+======================+================+
-| **Cefazolin**  | 500 mg/2 L exchanges | Gram-positive  |
-|                | / 125 mg/2 L         | coverage       |
-+----------------+----------------------+----------------+
-| Ceftazidime    | 500 mg/2 L exchanges | Gram-negative, |
-|                | / 125 mg/2 L         | Pseudomonas    |
-+----------------+----------------------+----------------+
-| **Vancomycin** | 30 mg/kg loading /   | MRSA,          |
-|                | 15 mg/kg per         | resistant      |
-|                | exchange             | gram-positive  |
-+----------------+----------------------+----------------+
++----------------+---------------------+----------------+
+| Agent          | Dosing              | Target         |
+|                | (Bolus/Maintenance) |                |
++================+=====================+================+
+| **Cefazolin**  | 500 mg/2 L          | Gram-positive  |
+|                | exchanges / 125     | coverage       |
+|                | mg/2 L              |                |
++----------------+---------------------+----------------+
+| Ceftazidime    | 500 mg/2 L          | Gram-negative, |
+|                | exchanges / 125     | Pseudomonas    |
+|                | mg/2 L              |                |
++----------------+---------------------+----------------+
+| **Vancomycin** | 30 mg/kg loading /  | MRSA,          |
+|                | 15 mg/kg per        | resistant      |
+|                | exchange            | gram-positive  |
++----------------+---------------------+----------------+
 
 **Duration**
 
@@ -2046,27 +2128,28 @@ to prevent progression to peritonitis.
 
 **Common Locations**
 
-+----------------+----------------+--------------------+
-| Location       | Frequency      | Clinical Features  |
-+================+================+====================+
-| Pelvic         | 30-40%         | Dependent site;    |
-|                |                | difficult to       |
-|                |                | examine            |
-+----------------+----------------+--------------------+
-| Paracolic      | 20-30%         | Follow colon       |
-|                |                | anatomy gutters    |
-+----------------+----------------+--------------------+
-| Subphrenic     | 15-20%         | Upper abdomen; may |
-|                |                | \| \| \| irritate  |
-|                |                | diaphragm          |
-+----------------+----------------+--------------------+
-| Hepatic        | 10-15%         | Near hepatic       |
-|                |                | hilum, fissures    |
-|                |                | perihepatic        |
-+----------------+----------------+--------------------+
-| Morrison's     | 5-10%          | Dependent upper    |
-| pouch          |                | abdomen            |
-+----------------+----------------+--------------------+
++----------------+----------------+-------------------+
+| Location       | Frequency      | Clinical Features |
++================+================+===================+
+| Pelvic         | 30-40%         | Dependent site;   |
+|                |                | difficult to      |
+|                |                | examine           |
++----------------+----------------+-------------------+
+| Paracolic      | 20-30%         | Follow colon      |
+|                |                | anatomy gutters   |
++----------------+----------------+-------------------+
+| Subphrenic     | 15-20%         | Upper abdomen;    |
+|                |                | may \| \| \|      |
+|                |                | irritate          |
+|                |                | diaphragm         |
++----------------+----------------+-------------------+
+| Hepatic        | 10-15%         | Near hepatic      |
+|                |                | hilum, fissures   |
+|                |                | perihepatic       |
++----------------+----------------+-------------------+
+| Morrison's     | 5-10%          | Dependent upper   |
+| pouch          |                | abdomen           |
++----------------+----------------+-------------------+
 
 **Formation Mechanism**
 
@@ -2164,26 +2247,28 @@ finding. Imaging is critical for diagnosis and localization.
 
 **Imaging Modalities**
 
-+--------------+--------------+--------------+
-| Modality     | Sensitivity  | Utility      |
-+==============+==============+==============+
-| **CT with IV | 95-97%       | Gold         |
-| contrast**   |              | standard;    |
-|              |              | l            |
-|              |              | ocalization; |
-|              |              | guidance for |
-|              |              | drainage     |
-+--------------+--------------+--------------+
-| -   \*Ul     | 90-95%       | Real-time,   |
-| trasound\*\* |              | portable;    |
-|              |              | bedside      |
-|              |              | assessment   |
-+--------------+--------------+--------------+
-| **MRI**      | 90-95%       | Excellent    |
-|              |              | soft tissue; |
-|              |              | limited in   |
-|              |              | acute care   |
-+--------------+--------------+--------------+
++-------------+-------------+-------------+
+| Modality    | Sensitivity | Utility     |
++=============+=============+=============+
+| **CT with   | 95-97%      | Gold        |
+| IV          |             | standard; l |
+| contrast**  |             | o           |
+|             |             | calization; |
+|             |             | guidance    |
+|             |             | for         |
+|             |             | drainage    |
++-------------+-------------+-------------+
+| -   \*Ul    | 90-95%      | Real-time,  |
+|     t       |             | portable;   |
+| rasound\*\* |             | bedside     |
+|             |             | assessment  |
++-------------+-------------+-------------+
+| **MRI**     | 90-95%      | Excellent   |
+|             |             | soft        |
+|             |             | tissue;     |
+|             |             | limited in  |
+|             |             | acute care  |
++-------------+-------------+-------------+
 
 **CT Findings**
 
@@ -2252,28 +2337,28 @@ including the abscesses and the drain placement
 
 **Percutaneous vs. Surgical Drainage**
 
-+----------------+------------------+----------------+
-| Factor         | Percutaneous     | Surgical       |
-+================+==================+================+
-| **Access**     | Image-guided     | Direct         |
-|                | (CT/US)          | visualization  |
-+----------------+------------------+----------------+
-| I*             | Minimally        | Formal         |
-| *nvasiveness** | invasive         | operation      |
-+----------------+------------------+----------------+
-| **Morbidity**  | Lower            | Higher         |
-|                |                  | (general       |
-|                |                  | anesthesia,    |
-|                |                  | incisions)     |
-+----------------+------------------+----------------+
-| **Efficacy**   | 80-90% success   | Near 100%      |
-|                |                  | success        |
-+----------------+------------------+----------------+
-| **Best used    | Accessible       | Inaccessible   |
-| in**           | collections,     | collections,   |
-|                | stable patient   | unstable       |
-|                |                  | patient        |
-+----------------+------------------+----------------+
++----------------+-----------------+----------------+
+| Factor         | Percutaneous    | Surgical       |
++================+=================+================+
+| **Access**     | Image-guided    | Direct         |
+|                | (CT/US)         | visualization  |
++----------------+-----------------+----------------+
+| In             | Minimally       | Formal         |
+| vasiveness\*\* | invasive        | operation      |
++----------------+-----------------+----------------+
+| **Morbidity**  | Lower           | Higher         |
+|                |                 | (general       |
+|                |                 | anesthesia,    |
+|                |                 | incisions)     |
++----------------+-----------------+----------------+
+| **Efficacy**   | 80-90% success  | Near 100%      |
+|                |                 | success        |
++----------------+-----------------+----------------+
+| **Best used    | Accessible      | Inaccessible   |
+| in**           | collections,    | collections,   |
+|                | stable patient  | unstable       |
+|                |                 | patient        |
++----------------+-----------------+----------------+
 
 **Selection Criteria for Percutaneous Drainage**
 
@@ -2351,25 +2436,25 @@ authorities advocate procalcitonin-guided therapy duration.
 
 **Factors Affecting Prognosis**
 
-+------------------------+------------------------+
-| Factor                 | Impact                 |
-+========================+========================+
-| **Time to diagnosis**  | Delayed diagnosis →    |
-|                        | higher mortality       |
-+------------------------+------------------------+
-| **Size \>5 cm**        | Larger collections →   |
-|                        | worse prognosis        |
-+------------------------+------------------------+
-| **Multiple organisms   | More virulent; worse   |
-| (esp. anaerobes)**     | outcome                |
-+------------------------+------------------------+
-| **Associated           | Indicates severe       |
-| peritonitis**          | primary disease        |
-+------------------------+------------------------+
-| **Patient age,         | Older,                 |
-| comorbidities**        | immunocompromised →    |
-|                        | worse                  |
-+------------------------+------------------------+
++-----------------------+-----------------------+
+| Factor                | Impact                |
++=======================+=======================+
+| **Time to diagnosis** | Delayed diagnosis →   |
+|                       | higher mortality      |
++-----------------------+-----------------------+
+| **Size \>5 cm**       | Larger collections →  |
+|                       | worse prognosis       |
++-----------------------+-----------------------+
+| **Multiple organisms  | More virulent; worse  |
+| (esp. anaerobes)**    | outcome               |
++-----------------------+-----------------------+
+| **Associated          | Indicates severe      |
+| peritonitis**         | primary disease       |
++-----------------------+-----------------------+
+| **Patient age,        | Older,                |
+| comorbidities**       | immunocompromised →   |
+|                       | worse                 |
++-----------------------+-----------------------+
 
 **Complications of Treatment**
 
@@ -2530,55 +2615,57 @@ cultures is important to prevent antibiotic resistance development.
 ## Quick Reference: Empiric Antibiotic Selection by Scenario
 
 +-------+-------+-------+-------+
-| C l   | F i r | A l t | D u   |
-| i     | s     | e r   | r     |
-| nical | t     | n     | ation |
-| S c   | -Line | ative |       |
-| e     | E     |       |       |
-| nario | m     |       |       |
+| C l i | F i r | A l t | D u r |
+| nical | s t   | e r n | ation |
+| S c e | -Line | ative |       |
+| nario | E m   |       |       |
 |       | piric |       |       |
 +=======+=======+=======+=======+
 | -     | C e f | C i p | 5     |
-|    \* | o     | r o f | days  |
-|     P | t     | l     |       |
-|     r | axime | o     |       |
-| imary | 2g    | xacin |       |
-|     p | Q6-8H | 400mg |       |
-|     e |       | PO    |       |
-|     r |       | Q12H  |       |
+|    \* | o t   | r o f | days  |
+|     P | axime | l o   |       |
+|     r | 2g    | xacin |       |
+|       | Q6-8H | 400mg |       |
+| imary |       | PO    |       |
+|     p |       | Q12H  |       |
+|     e |       |       |       |
+|     r |       |       |       |
 |     i |       |       |       |
 |     t |       |       |       |
 |     o |       |       |       |
+|       |       |       |       |
 | nitis |       |       |       |
+|       |       |       |       |
 |       |       |       |       |
 |    (S |       |       |       |
 |     B |       |       |       |
 |     P |       |       |       |
+|       |       |       |       |
 | )\*\* |       |       |       |
 +-------+-------+-------+-------+
 | -     | P i p | C e f | 10-14 |
-|    \* | e     | t r   | days  |
-|       | racil | i     |       |
-| S e c | l i   | axone |       |
-| o     | n - t | 2g    |       |
-| ndary | a z o | Q     |       |
-| p e r | b     | 12H + |       |
-|       | actam | m e t |       |
-| i t o | 4.5g  | r o n |       |
-| n     | Q6-8H | i     |       |
-| itis, |       | d     |       |
-|       |       | azole |       |
-| C     |       | 500mg |       |
-| A\*\* |       | TID   |       |
+|    \* | e     | t r i | days  |
+|       | racil | axone |       |
+| S e c | l i   | 2g Q  |       |
+| o     | n - t | 12H + |       |
+| ndary | a z o | m e t |       |
+| p e r | b     | r o n |       |
+|       | actam | i d   |       |
+| i t o | 4.5g  | azole |       |
+| n     | Q6-8H | 500mg |       |
+| itis, |       | TID   |       |
+|       |       |       |       |
+| C     |       |       |       |
+| A\*\* |       |       |       |
 +-------+-------+-------+-------+
 | -     | C e p | C a r | 10-14 |
-|    \* | h a l | b     | days  |
-|       | o s p | a     |       |
-| S e c | o     | penem |       |
-| o     | rin + | ± a n |       |
-| ndary | v a n | t i - |       |
-| p e r | c o m | f     |       |
-|       | y     | ungal |       |
+|    \* | h a l | b a   | days  |
+|       | o s p | penem |       |
+| S e c | o     | ± a n |       |
+| o     | rin + | t i - |       |
+| ndary | v a n | f     |       |
+| p e r | c o m | ungal |       |
+|       | y     |       |       |
 | i t o | cin + |       |       |
 | n     | a n t |       |       |
 | itis, | i - C |       |       |
@@ -2586,28 +2673,30 @@ cultures is important to prevent antibiotic resistance development.
 | H     | ndida |       |       |
 | A\*\* |       |       |       |
 +-------+-------+-------+-------+
-| *     | C e f | V a n | 14-21 |
-| *CAPD | a     | c     | days  |
-| p e r | zolin | o     |       |
-| i t o | IP +  | mycin |       |
-| n     | c e f | IP    |       |
-| i     | t a   |       |       |
-| tis** | z     |       |       |
-|       | idime |       |       |
-|       | IP    |       |       |
+| -   \ | C e f | V a n | 14-21 |
+| *CAPD | a     | c o   | days  |
+|     p | zolin | mycin |       |
+|     e | IP +  | IP    |       |
+|     r | c e f |       |       |
+|     i | t a z |       |       |
+|     t | idime |       |       |
+|     o | IP    |       |       |
+|     n |       |       |       |
+|     i |       |       |       |
+|       |       |       |       |
+|    ti |       |       |       |
+| s\*\* |       |       |       |
 +-------+-------+-------+-------+
 | ## \* | P i p | C e f | 10-14 |
 |       | e     | t r i | days  |
-| \*In  | racil | a     |       |
-| t r a | l i   | x     |       |
-|       | n - t | one + |       |
-| p e r | a z o | m e t |       |
-| i     | b     | r o n |       |
-| t     | actam | i     |       |
-| oneal | 4.5g  | d     |       |
-| ab s  | Q6-8H | azole |       |
-| c e   |       |       |       |
-| s     |       |       |       |
+| \*In  | racil | a x   |       |
+| t r a | l i   | one + |       |
+|       | n - t | m e t |       |
+| p e r | a z o | r o n |       |
+| i t   | b     | i d   |       |
+| oneal | actam | azole |       |
+| ab s  | 4.5g  |       |       |
+| c e s | Q6-8H |       |       |
 | s\*\* |       |       |       |
 +-------+-------+-------+-------+
 

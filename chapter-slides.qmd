@@ -102,7 +102,7 @@ important for diagnostic imaging and source control planning.
 <br>
 
 | Feature | Primary | Secondary | Tertiary |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **Intraabdominal source** | None | Present (perforation, ischemia) | Persistent after source control |
 | **Frequency** | \~1% of peritonitis cases | 80–90% of cases | Less common |
 | **Typical organisms** | Monomicrobial gram-negative | Polymicrobial aerobic/anaerobic | MDR, gram-negative, low virulence |
@@ -733,7 +733,7 @@ intervention or percutaneous drainage alongside antimicrobial therapy.
 <br> <br>
 
 | Organ System | Common Causes |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Upper GI** | Perforated peptic ulcer, perforated gastric ulcer |
 | **Small bowel** | Meckel's diverticulitis, small bowel perforation, ischemic necrosis |
 | **Appendix** | Perforated appendicitis |
@@ -831,7 +831,7 @@ carries higher mortality and requires broader empiric coverage.
 **Dominant Organisms**
 
 | Category | Examples | Prevalence |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Gram-negative rods** | *E. coli, Klebsiella, Proteus, Enterobacter* | 60–80% |
 | **Anaerobes** | *Bacteroides fragilis*, anaerobic cocci, *Clostridium* | 60–90% |
 | **Gram-positive cocci** | *Streptococcus, Enterococcus, Staphylococcus* | 40–60% |
@@ -1048,7 +1048,7 @@ fever. Absence of fever should never exclude peritonitis.
 **Inflammatory Markers**
 
 | Test | Utility |
-|------------------------------------|------------------------------------|
+|----|----|
 | **C-reactive protein (CRP)** | Elevated; reflects severity |
 | **Procalcitonin** | \>2 ng/mL suggests bacterial peritonitis; guides de-escalation |
 | **Lactate** | Elevated in sepsis; correlates with severity |
@@ -1160,7 +1160,7 @@ respective areas of concern in each panel.
 **Fluid Analysis**
 
 | Parameter | Finding |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Appearance** | Turbid, purulent, bloody |
 | **PMN count** | Usually \>50,000/mm³ in secondary peritonitis |
 | **Gram stain** | May show gram-negative rods, gram-positive cocci, anaerobes |
@@ -1309,7 +1309,7 @@ goals given high mortality.
 **Risk Stratification**
 
 | Risk Category | Features | Typical Organisms |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Low-risk** | Community-acquired, no recent hospitalization, no immunosuppression | Susceptible gram-negatives, anaerobes |
 | **High-risk** | Healthcare-associated, recent surgery, immunosuppressed, prolonged hospitalization | MDR gram-negatives, MRSA, Candida, enterococci |
 
@@ -1333,7 +1333,7 @@ presentation.
 **Beta-Lactams with Beta-Lactamase Inhibitors**
 
 | Agent                       | Dosing         | Notes                           |
-|------------------------|------------------------|------------------------|
+|-----------------------------|----------------|---------------------------------|
 | **Amoxicillin-clavulanate** | 875–125 mg TID | Oral; limited spectrum          |
 | **Ampicillin-sulbactam**    | 3 g IV Q6H     | Good anaerobic coverage         |
 | **Piperacillin-tazobactam** | 4.5 g IV Q6–8H | Excellent coverage; pseudomonal |
@@ -1341,7 +1341,7 @@ presentation.
 **Cephalosporins (typically combined with metronidazole)**
 
 | Agent | Dosing | Notes |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Ceftriaxone | 2 g IV Q12H + metronidazole 500 mg TID | Lower pseudomonal coverage |
 | Ceftazidime | 2 g IV Q8H + metronidazole 500 mg TID | Better *Pseudomonas* coverage |
 
@@ -1404,7 +1404,7 @@ history with ESBLs.
 
 ::: {style="font-size: 0.75em;"}
 | Agent | ESBLs | AmpC | KPC | OXA-48 | MBL | CRAB | CRPA |
-|---------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|----|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **Plazomicin** (not in EU) | ✓ | ✓ | ✓ | ✓ | ± | ✗ | ✗ |
 | **Eravacycline** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | **Tigecycline** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
@@ -1436,7 +1436,7 @@ is only active against carbapenem-resistant, non-carbapenemase-producing
 **Extended-Spectrum Agents**
 
 | Agent | Organism Coverage | When to Use |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Ceftolozane-tazobactam | Pseudomonas, resistant GN | Healthcare-associated, MDR risk |
 | Ceftazidime-avibactam | Carbapenem-resistant organisms, ESBLs | Suspected resistance, prior carbapenems |
 | Meropenem-vaborbactam | Metallo-β-lactamases, carbapenem-resistant | Last-resort therapy |
@@ -1446,7 +1446,7 @@ is only active against carbapenem-resistant, non-carbapenemase-producing
 <br> <br>
 
 | Agent | Dosing | When to Use |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Fluconazole | 400–800 mg/day | Upper GI perforation, prolonged hospitalization |
 | Anidulafungin | 200 mg loading, then 100 mg/day | Suspected azole-resistant Candida |
 | Caspofungin | 70 mg loading, then 50 mg/day | Alternative to fluconazole, suspected azole-resistant Candida |
@@ -1640,7 +1640,7 @@ peritonitis is almost exclusively due to exogenous contamination.
 **Organism Distribution**
 
 | Category | Prevalence | Examples |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Gram-positive | 60–80% | *S. epidermidis, S. aureus, Streptococcus spp.* |
 | Gram-negative | 15–30% | *E. coli, Klebsiella*, Enterobacterales |
 | **Fungi** | 5–10% (increasing) | *Candida spp.*, rare molds |
@@ -1718,7 +1718,7 @@ Some centers use BACTEC automated systems to improve organism recovery.
 **Standard IP Regimens**
 
 | Agent | Dosing (Bolus / Maintenance) | Target |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Cefazolin** | 500 mg/2 L exchanges / 125 mg/2 L | Gram-positive coverage |
 | **Ceftazidime** | 500 mg/2 L exchanges / 125 mg/2 L | Gram-negative, Pseudomonas |
 | **Vancomycin** | 30 mg/kg loading / 15 mg/kg per exchange | MRSA, resistant gram-positive |
@@ -1936,7 +1936,7 @@ finding. Imaging is critical for diagnosis and localization.
 **Imaging Modalities**
 
 | Modality | Sensitivity | Utility |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **CT with IV contrast** | 95–97% | Gold standard; localization; guidance for drainage |
 | **Ultrasound** | 90–95% | Real-time, portable; bedside assessment |
 | **MRI** | 90–95% | Excellent soft tissue; limited in acute care |
@@ -2009,7 +2009,7 @@ including the abscesses and the drain placement.
 **Percutaneous vs. Surgical Drainage**
 
 | Factor | Percutaneous | Surgical |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Access** | Image-guided (CT/US) | Direct visualization |
 | **Invasiveness** | Minimally invasive | Formal operation |
 | **Morbidity** | Lower | Higher (general anesthesia, incisions) |
@@ -2098,7 +2098,7 @@ authorities advocate procalcitonin-guided therapy duration.
 **Factors Affecting Prognosis**
 
 | Factor | Impact |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Time to diagnosis** | Delayed diagnosis → higher mortality |
 | **Size \>5 cm** | Larger collections → worse prognosis |
 | **Multiple organisms (esp. anaerobes)** | More virulent; worse outcome |
@@ -2264,7 +2264,7 @@ cultures is important to prevent antibiotic resistance development.
 ## Quick Reference: Empiric Antibiotic Selection by Scenario
 
 | Clinical Scenario | First-Line Empiric | Alternative | Duration |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **Primary peritonitis (SBP)** | Cefotaxime 2 g Q6–8H | Ciprofloxacin 400 mg PO Q12H | 5 days |
 | **Secondary peritonitis, CA** | Piperacillin-tazobactam 4.5 g Q6–8H | Ceftriaxone 2 g Q12H + metronidazole 500 mg TID | 10–14 days |
 | **Secondary peritonitis, HA** | Cephalosporin + vancomycin + anti-Candida | Carbapenem ± antifungal | 10–14 days |

@@ -341,11 +341,7 @@ polymicrobial bacteremia is relatively uncommon.
 
 <br>
 
-<center>
-
 {{< video https://youtu.be/9npNQM8ANds?si=ZruROkTkUdF6k11rID width="800" height="500" start="30" >}}
-
-</center>
 
 ## Diagnosis of SBP: Ascitic fluid examination
 
@@ -1371,7 +1367,6 @@ depends on risk factors for resistant organisms and severity of
 presentation.
 :::
 
-
 ## Antimicrobial therapy for secondary peritonitis: <br>Drug classes for aerobic coverage
 
 **Beta-Lactams with beta-Lactamase Inhibitors**
@@ -1387,7 +1382,7 @@ presentation.
 | Agent | Dosing | Notes |
 |------------------------|------------------------|------------------------|
 | Ceftriaxone | 2 g IV Q12H + <br> metronidazole 500 mg TID | Lower pseudomonal coverage |
-| Ceftazidime | 2 g IV Q8H +  <br> metronidazole 500 mg TID | Better *Pseudomonas* coverage |
+| Ceftazidime | 2 g IV Q8H + <br> metronidazole 500 mg TID | Better *Pseudomonas* coverage |
 
 **Carbapenems** (broad spectrum, both Gram negative and anaerobes-
 reserve use)
@@ -1404,8 +1399,6 @@ activity. Carbapenems are reserved for MDR organisms or
 β-lactam-resistant organisms. Fluoroquinolones are inadequate as
 monotherapy for anaerobes and should be avoided for primary therapy.
 :::
-
-
 
 ## Antimicrobial therapy for secondary peritonitis: Anaerobic coverage
 
@@ -1439,7 +1432,7 @@ selection pressure unless patient has previous colonization or infection
 history with ESBLs.
 :::
 
-## New antibiotics active against resistant gram-negative bacilli {.smaller}
+## New antibiotics active against resistant <br> gram-negative bacilli {.smaller}
 
 ::: {style="font-size: 0.75em;"}
 | Agent | ESBLs | AmpC | KPC | OXA-48 | MBL | CRAB | CRPA |
@@ -1457,21 +1450,23 @@ history with ESBLs.
 :::
 
 ::: aside
-ESBL- extended spectrum beta lactamase, AmpC- inducible extended beta lactamase, KPC, OXA-48 MBL are carbapenemases, CRAB- carbapenem-resistant Acinetobacer baumanii, CRPA- carbapenem-resistant Pseudomonas <br> 
-To treat ESBL- or AmpC-producing Enterobacterales, all above antibiotics
-can be used except for ceftolozane/tazobactam against hyperproducing
-AmpC Enterobacterales. To treat KPC-producing Enterobacterales, all can
-be used but ceftolozane/tazobactam. To treat OXA-48 producers, all but
-temocillin, ceftolozane/tazobactam, meropenem/vaborbactam, and
-imipenem/relebactam. To treat MBL producers, only eravacycline,
-tigecycline, cefiderocol, and ampicillin/sulbactam plus
-ceftazidime/avibactam. To treat CRAB, only eravacycline, tigecycline,
-and cefiderocol. To treat CRPA, only cefiderocol (ceftolozane/tazobactam
-is only active against carbapenem-resistant, non-carbapenemase-producing
-*Pseudomonas aeruginosa*).
+ESBL- extended spectrum beta lactamase, AmpC- inducible extended beta
+lactamase, KPC, OXA-48 MBL are carbapenemases, CRAB-
+carbapenem-resistant Acinetobacer baumanii, CRPA- carbapenem-resistant
+*Pseudomonas* <br> To treat ESBL- or AmpC-producing Enterobacterales,
+all above antibiotics can be used except for ceftolozane/tazobactam
+against hyperproducing AmpC Enterobacterales. To treat KPC-producing
+Enterobacterales, all can be used but ceftolozane/tazobactam. To treat
+OXA-48 producers, all but temocillin, ceftolozane/tazobactam,
+meropenem/vaborbactam, and imipenem/relebactam. To treat MBL producers,
+only eravacycline, tigecycline, cefiderocol, and ampicillin/sulbactam
+plus ceftazidime/avibactam. To treat CRAB, only eravacycline,
+tigecycline, and cefiderocol. To treat CRPA, only cefiderocol
+(ceftolozane/tazobactam is only active against carbapenem-resistant,
+non-carbapenemase-producing *Pseudomonas aeruginosa*).
 :::
 
-## New agents for resistant organisms in secondary peritonitis {.smaller}
+## New agents for resistant organisms in <br> secondary peritonitis {.smaller}
 
 **Extended-Spectrum Agents**
 
@@ -1479,7 +1474,7 @@ is only active against carbapenem-resistant, non-carbapenemase-producing
 |------------------------|------------------------|------------------------|
 | Ceftolozane-tazobactam | Pseudomonas, resistant GN | Healthcare-associated, MDR risk |
 | Ceftazidime-avibactam | Carbapenem-resistant organisms, ESBLs | Suspected resistance, prior carbapenems |
-| Meropenem-vaborbactam | Metallo-β-lactamases, carbapenem-resistant | Last-resort therapy |
+| Meropenem-vaborbactam | Metallo-β-lactamases, <br> carbapenem-resistant | Last-resort therapy |
 
 ## Anti-Candida Agents {.smaller}
 
@@ -1509,8 +1504,6 @@ presentation, and local resistance patterns. The combination of new
 β-lactam/β-lactamase inhibitors with anti-Candida coverage is common in
 high-risk healthcare-associated IAI.
 :::
-
-------------------------------------------------------------------------
 
 ## Source Control in Secondary Peritonitis {.smaller}
 
@@ -1543,15 +1536,13 @@ high-risk healthcare-associated IAI.
 -   Avoid contamination of clean peritoneal surfaces
 
 ::: aside
-Source control is often MORE important than antibiotics in secondary
-peritonitis. Antibiotics alone fail in cases of inadequate source
-control. The timing of surgery depends on presentation (shock vs.
-hemodynamically stable) and anatomical factors. Percutaneous drainage
-under CT guidance is increasingly used for select abscess collections,
-delaying or avoiding surgery.
+Source control is often ESSENTIAL in secondary peritonitis. Antibiotics
+alone fail in cases of inadequate source control. The timing of surgery
+depends on presentation (shock vs. hemodynamically stable) and
+anatomical factors. Percutaneous drainage under CT guidance is
+increasingly used for select abscess collections, delaying or avoiding
+surgery.
 :::
-
-------------------------------------------------------------------------
 
 ## Supportive Care in Secondary Peritonitis {.smaller}
 
@@ -1565,14 +1556,15 @@ delaying or avoiding surgery.
 
 **Respiratory Support**
 
--   Mechanical ventilation if ARDS develops
+-   Mechanical ventilation if acute respiratory distress syndome (ARDS)
+    develops
 -   Positive end-expiratory pressure (PEEP) to improve oxygenation
 -   Careful fluid management to balance resuscitation and pulmonary
     edema
 
 **Nutritional Support**
 
--   **Enteral nutrition** when possible (preserves gut mucosa)
+-   Enteral nutrition when possible (preserves gut mucosa)
 -   Total parenteral nutrition if unable to tolerate enteral feeds
 -   Early nutrition improves outcomes and reduces infection risk
 
@@ -1589,8 +1581,6 @@ often from SIRS/sepsis and organ dysfunction, not bacterial infection
 per se. Early vasopressor support, mechanical ventilation, and
 nutritional intervention are standard in intensive care management.
 :::
-
-------------------------------------------------------------------------
 
 ## Prevention of Postoperative Peritonitis {.smaller}
 
@@ -1631,6 +1621,10 @@ occurs.
 :::
 
 # Peritoneal-dialysis associated peritonitis {background-color="#9B0014"}
+
+## Peritoneal dialysis
+
+![](images/pd2.png){fig-align="center"}
 
 ## PD-Associated peritonitis: Epidemiology {.smaller}
 
@@ -1684,22 +1678,21 @@ peritonitis is almost exclusively due to exogenous contamination.
 | Gram-positive | 60–80% | *S. epidermidis, S. aureus, Streptococcus spp.* |
 | Gram-negative | 15–30% | *E. coli, Klebsiella*, Enterobacterales |
 | **Fungi** | 5–10% (increasing) | *Candida spp.*, rare molds |
-| Mycobacteria | \<5% | *M. tuberculosis* (geographic dependent) |
+| Mycobacteria | \<5% | *M. tuberculosis* <br> (geographic dependent) |
 
 **Common Pathogens**
 
--   **Coagulase-negative staphylococci (*S. epidermidis*)**: Most common
+-   Coagulase-negative staphylococci (*S. epidermidis*): Most common
     gram-positive
--   ***S. aureus***: Often from patient's skin flora, more virulent
--   **Streptococcus spp.**: May indicate bowel translocation
--   **Enterococci**: Rare but significant if present
--   **Pseudomonas**: Often healthcare-associated, poor prognosis
+-   *S. aureus*: Often from patient's skin flora, more virulent
+-   *Streptococcus* spp.: May indicate bowel translocation
+-   Enterococci: Rare but significant if present
+-   P*seudomonas*: Often healthcare-associated, poor prognosis
 
 **Biofilm Considerations**
 
--   S. epidermidis forms biofilm on catheter
--   Protects from immune response and antibiotics
--   May require catheter removal for cure
+-   *S. epidermidis* forms biofilm on catheter, protects from immune
+    response and antibiotics
 
 ::: notes
 The dominance of gram-positives (unlike secondary peritonitis) reflects
@@ -1719,7 +1712,7 @@ Diagnosis requires 2 of 3:
 
 1.  **Cloudy peritoneal effluent** (visual inspection)
 2.  **Peritoneal WBC \>100 cells/mm³** (typically \>50% PMN)
-3.  **Positive dialysate culture** or Gram stain
+3.  **Positive dialysate culture** **or Gram stain**
 
 **Typical Laboratory Findings**
 
@@ -1751,7 +1744,7 @@ Some centers use BACTEC automated systems to improve organism recovery.
 
 **Empiric Therapy**
 
--   **Intraperitoneal (IP) antibiotics** preferred
+-   **Intraperitoneal (IP) antibiotics preferred**
 -   Cover gram-positives initially (cefazolin or vancomycin)
 -   Add gram-negative coverage (ceftazidime or aminoglycoside)
 
@@ -1765,11 +1758,13 @@ Some centers use BACTEC automated systems to improve organism recovery.
 
 **Duration**
 
--   **ISPD guidelines**: 14–21 days of IP antibiotics
--   Assess response at 2–5 days (peritoneal fluid should clear)
+-   **ISPD guidelines**: 14–21 days of IP antibiotics, assess response
+    at 2–5 days (peritoneal fluid should clear)
 -   Culture results guide de-escalation
 
-**Catheter Management**
+## **Dialysis catheter management**
+
+<br>
 
 -   Continue CAPD during treatment (antibiotics via dialysate)
 -   Remove catheter if no improvement by day 4–5
@@ -1790,22 +1785,21 @@ therapy and temporary hemodialysis.
 
 **Fungal PD Peritonitis**
 
--   Incidence: 5–10% of all CAPD peritonitis
--   Most common: Candida spp. (\>90% of fungal cases)
+-   Incidence: 5–10% of all CAPD peritonitis: Most common: Candida spp.
+    (\>90% of fungal cases)
 -   Risk factors: prior antibiotics, immunosuppression, diabetes
 
 **Management of Fungal Peritonitis**
 
--   **Antifungal agents** (fluconazole, amphotericin B)
+-   **Antifungal agents** (fluconazole, amphotericin B): Often requires
+    IV therapy in addition to IP
 -   **Mandatory catheter removal** (biofilm barrier limits drug
     penetration)
--   Often requires IV therapy in addition to IP
 
 **Mycobacterial PD Peritonitis**
 
 -   ***M. tuberculosis***: Geographic variation (high in endemic areas)
 -   **Nontuberculous mycobacteria** (NTM): Rising incidence
--   Risk factors: positive TB history, immunosuppression
 
 **Management of Mycobacterial Peritonitis**
 
@@ -1904,11 +1898,11 @@ drainage planning.
 
 **Common Organisms**
 
--   E. coli (gram-negative rod)
--   Bacteroides fragilis (obligate anaerobe)
--   Streptococcus spp. (gram-positive cocci)
--   Enterococcus spp. (gram-positive coccus)
--   Other anaerobes (Peptostreptococcus, Clostridium)
+-   \*E. coli\* (gram-negative rod)
+-   *Bacteroides fragilis* (obligate anaerobe)
+-   *Streptococcus* spp. (gram-positive cocci)
+-   *Enterococcus* spp. (gram-positive coccus)
+-   Other anaerobes (*Peptostreptococcus, Clostridium*)
 
 **Culture Characteristics**
 
@@ -1938,24 +1932,20 @@ aerobes and anaerobes.
 ## Intraperitoneal Abscesses: Clinical Presentation
 
 **Symptoms**
-
-::: incremental
 -   **Fever** (may be low-grade, intermittent)
 -   **Localized abdominal or flank pain** (depending on location)
 -   **GI symptoms**: nausea, vomiting, anorexia (if gastric irritation)
 -   **Urinary symptoms**: dysuria, frequency (if bladder compression)
 -   **Subphrenic abscess**: Shoulder pain (referred), dyspnea
-:::
+
 
 **Physical Findings**
-
 -   Localized abdominal tenderness (over abscess site)
 -   Palpable mass (large collections only)
 -   Fever
 -   Hemodynamic instability (if large, with systemic toxicity)
 
 **Laboratory/Imaging Abnormalities**
-
 -   Leukocytosis (may be modest in chronic abscess)
 -   Elevated CRP
 -   CT findings: Fluid collection with enhancing rim, air-fluid level if
@@ -2058,17 +2048,14 @@ including the abscesses and the drain placement.
 
 **Selection Criteria for Percutaneous Drainage**
 
-::: incremental
 -   Accessible collection (not multiloculated or complex)
 
--   
-
-    > 3–4 cm in diameter (smaller often respond to antibiotics alone)
+-   > 3–4 cm in diameter (smaller often respond to antibiotics alone)
 
 -   Hemodynamically stable patient
 
 -   Expertise available for image-guided drainage
-:::
+
 
 **When Surgery is Preferred**
 
@@ -2229,32 +2216,11 @@ antibiotic chosen.
 
 ------------------------------------------------------------------------
 
-## Algorithm: Approach to Suspected IAI
+## Algorithm: Approach to Suspected IAI {.smaller}
 
-```         
-SUSPECTED INTRAABDOMINAL INFECTION
-         ↓
-    Obtain imaging (CT)
-         ↓
-┌────────────────────────────┐
-│  Primary peritonitis?      │ → Monomicrobial, no source
-│  (no GI source, SBP?)     │   → Cefotaxime + albumin
-└────────────────────────────┘   → 5 days IV therapy
-         ↓
-┌────────────────────────────┐
-│  Secondary peritonitis?    │ → Perforation/abscess evident
-│  (clear GI source)         │   → Empiric broad-spectrum
-└────────────────────────────┘   → Source control (surgery/drain)
-         ↓                       → 10-14 days total
-┌────────────────────────────┐
-│  CAPD-associated?          │ → Gram-positive predominant
-│  (peritoneal dialysis)     │   → IP antibiotics 14-21 days
-└────────────────────────────┘   → ± catheter removal
-         ↓
-   Clinical deterioration?
-   Re-image (CT) → new source/abscess?
-   Consider tertiary peritonitis
-```
+<iframe src="images/intraabdominal-infection-algorithm.html" width="100%" height="600" style="border:none;"></iframe>
+
+
 
 ::: notes
 This algorithm summarizes the diagnostic approach. The key branch points
@@ -2264,13 +2230,13 @@ responding to therapy? Persistent fever or deterioration warrants repeat
 imaging to rule out missed/recurrent infection.
 :::
 
-------------------------------------------------------------------------
 
-## When to Worry: Red Flags for MDR Organisms
+
+## When to Worry: Red Flags for MDR Organisms {.smaller}
+<br> <br>
 
 **High-Risk Features for Resistant Pathogens**
 
-::: incremental
 -   **Healthcare-associated infection** (recent hospitalization,
     surgery, invasive procedure)
 -   **MRSA colonization** or prior MRSA infection
@@ -2281,7 +2247,7 @@ imaging to rule out missed/recurrent infection.
 -   **Candida species** in blood cultures or peritoneal fluid
 -   **Diabetic or renal failure** patients
 -   **Polymicrobial bacteremia** with unusual organisms
-:::
+
 
 **Modified Empiric Therapy for High-Risk Patients**
 
@@ -2299,15 +2265,17 @@ organisms and require broader, empiric coverage. De-escalation based on
 cultures is important to prevent antibiotic resistance development.
 :::
 
-------------------------------------------------------------------------
 
-## Quick Reference: Empiric Antibiotic Selection by Scenario
+
+## Quick Reference: <br> Empiric Antibiotic Selection by Scenario
+<br> <br>
+
 
 | Clinical Scenario | First-Line Empiric | Alternative | Duration |
 |------------------|------------------|------------------|------------------|
 | **Primary peritonitis (SBP)** | Cefotaxime 2 g Q6–8H | Ciprofloxacin 400 mg PO Q12H | 5 days |
 | **Secondary peritonitis, CA** | Piperacillin-tazobactam 4.5 g Q6–8H | Ceftriaxone 2 g Q12H + metronidazole 500 mg TID | 10–14 days |
-| **Secondary peritonitis, HA** | Cephalosporin + vancomycin + anti-Candida | Carbapenem ± antifungal | 10–14 days |
+| **Secondary peritonitis, HA** | 3rd-4th gen Cephalosporin + vancomycin + anti-Candida | Carbapenem ± antifungal | 10–14 days |
 | **CAPD peritonitis** | Cefazolin IP + ceftazidime IP | Vancomycin IP | 14–21 days |
 | **Intraperitoneal abscess** | Piperacillin-tazobactam 4.5 g Q6–8H | Ceftriaxone + metronidazole | 10–14 days |
 
@@ -2322,9 +2290,7 @@ dysfunction. Infectious diseases consultation is appropriate for
 high-risk or refractory cases.
 :::
 
-------------------------------------------------------------------------
-
-## Questions and Further Learning
+## Further Learning
 
 **Key References**
 
@@ -2338,19 +2304,6 @@ high-risk or refractory cases.
 -   Multidrug-resistant organisms and healthcare epidemiology: Recent
     advances and clinical perspectives. *Crit Care Med*. 2023.
 
-**Learning Resources**
-
--   UpToDate: "Spontaneous bacterial peritonitis" and "Secondary
-    bacterial peritonitis"
--   Diagnostic Microbiology and Infectious Disease (journal)
--   Infectious Diseases Society of America online guidelines
-
-::: notes
-These resources provide deeper dives into specific topics and offer
-access to the most current literature on emerging resistance and
-treatment approaches. Many hospitals have access to UpToDate through
-institutional subscriptions, and IDSA guidelines are freely available
-online.
-:::
-
-------------------------------------------------------------------------
+## References
+<br>
+<br>

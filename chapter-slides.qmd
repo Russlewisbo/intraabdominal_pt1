@@ -34,13 +34,6 @@ University of Padua
 
 </center>
 
-+-----------------------+-------------------------+
-| ![](i%20mages         | \![\]                   |
-| /dmmunipd%20_%20l%20o | (                       |
-| go.jpeg){width="100"} | images/unipd_se%20a%20l |
-|                       | \_                      |
-|                       | white.svg){width="100"} |
-+-----------------------+-------------------------+
 
 ------------------------------------------------------------------------
 
@@ -105,52 +98,23 @@ important for diagnostic imaging and source control planning.
 
 <br> <br>
 
-+-------+-------+-------+-------+
-| F     | P     | S e c | T e   |
-| e     | r     | o     | r     |
-| ature | imary | ndary | tiary |
-+=======+=======+=======+=======+
-| -     | None  | P     | Pe r  |
-|    \* |       | r     | s     |
-|     I |       | esent | i     |
-| ntraa |       | <b    | stent |
-|     b |       | r>    | after |
-|     d |       | (perf | s     |
-|     o |       | o r   | ource |
-| minal |       | a     | c     |
-|     s |       | tion, | o     |
-|       |       | i s c | ntrol |
-| our   |       | h     |       |
-| c     |       | emia) |       |
-| e\*\* |       |       |       |
-+-------+-------+-------+-------+
-| F r e | \~1%  | 8     | Less  |
-| q     | of    | 0-90% | c     |
-| uency | per i | of    | ommon |
-|       | t     | cases |       |
-|       | o     |       |       |
-|       | nitis |       |       |
-+-------+-------+-------+-------+
-| -     | Mono  | Pol   | MDR,  |
-|    \* | m i c | ym i  | g     |
-|     T | r     | c     | ram - |
-|     y | obial | r     | n e   |
-| pical | g     | obial | g     |
-|       | ram-  | aero  | ative |
-| org   | n e   | bic / | <br   |
-|       | g     | a n a | >     |
-| ani s | ative | e     | low - |
-| m     |       | robic | v i r |
-| s\*\* |       |       | u     |
-|       |       |       | lence |
-+-------+-------+-------+-------+
-| \     | 5-20% | 1     | 3     |
-| \*    |       | 0-40% | 0-64% |
-| Morta |       |       |       |
-| l i   |       |       |       |
-| t     |       |       |       |
-| y\*\* |       |       |       |
-+-------+-------+-------+-------+
++-------------------+------------+--------------------------+----------------------------+
+| Feature           | Primary    | Secondary                | Tertiary                   |
++===================+============+==========================+============================+
+| Intraabdominal    | None       | Present <br>            | Persistent after source    |
+| source            |            | (perforation, ischemia)  | <br>control                |
++-------------------+------------+--------------------------+----------------------------+
+| Frequency         | \~1% of    | 80-90% of cases          | Less common                |
+|                   | perit    |                          |                            |
+|                   | onitis     |                          |                            |
++-------------------+------------+--------------------------+----------------------------+
+| Typical           | Mon        | Polymicrobial            | MDR, gram - negative <br>  |
+|                   | omicrobial | aerobic/anaerobic        | low irulence               |
+| organisms         | gram-      |                          |                            |
+|                   | negative   |                          |                            |
++-------------------+------------+--------------------------+----------------------------+
+| Mortality         | 5-20%      | 10-40%                   | 30-64%                     |
++-------------------+------------+--------------------------+----------------------------+
 
 ::: notes
 This table encapsulates the clinical distinctions. Primary peritonitis
@@ -2119,10 +2083,6 @@ pathology. Knowledge of dependent recesses guides imaging assessment and
 drainage planning.
 :::
 
-------------------------------------------------------------------------
-
-## 
-
 ## Intraperitoneal Abscesses: Microbiology
 
 **Organism Characteristics**
@@ -2298,8 +2258,8 @@ including the abscesses and the drain placement
 | **Access**     | Image-guided     | Direct         |
 |                | (CT/US)          | visualization  |
 +----------------+------------------+----------------+
-| Invasiveness   | Minimally        | Formal         |
-|                | invasive         | operation      |
+| I*             | Minimally        | Formal         |
+| *nvasiveness** | invasive         | operation      |
 +----------------+------------------+----------------+
 | **Morbidity**  | Lower            | Higher         |
 |                |                  | (general       |
@@ -2318,11 +2278,10 @@ including the abscesses and the drain placement
 **Selection Criteria for Percutaneous Drainage**
 
 ::: incremental
--   **Accessible** collection (not multiloculated or complex)
--   **\>3-4 cm** in diameter (smaller often respond to antibiotics
-    alone)
--   **Hemodynamically stable** patient
--   **Expertise available** for image-guided drainage
+-   Accessible collection (not multiloculated or complex)
+-   \>3-4 cm in diameter (smaller often respond to antibiotics alone)
+-   Hemodynamically stable patient
+-   Expertise available for image-guided drainage
 :::
 
 **When Surgery is Preferred**

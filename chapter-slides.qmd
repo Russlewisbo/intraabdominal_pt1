@@ -235,19 +235,19 @@ C or high MELD) is a major risk factor.
 ::: {.column width="63%"}
 <br> <br> <br>
 
--   **High-volume ascites** (advanced cirrhosis, Child-Pugh class C)
+-   High-volume ascites (advanced cirrhosis, Child-Pugh class C)
 
--   **High Model for End-Stage Liver Disease (MELD) score**
+-   High Model for End-Stage Liver Disease (MELD) score
 
--   **Coexisting gastrointestinal hemorrhage**
+-   Coexisting gastrointestinal hemorrhage
 
--   **Previous SBP episode**
+-   Previous SBP episode
 
--   **Low ascitic fluid protein** (\<1 g/dL)
+-   Low ascitic fluid protein (\<1 g/dL)
 
--   **Elevated serum bilirubin** (\>2.5 mg/dL)
+-   Elevated serum bilirubin (\>2.5 mg/dL)
 
--   **Proton pump inhibitor use** (reduces gastric acidity, increases
+-   Proton pump inhibitor use (reduces gastric acidity, increases
     translocation)
 :::
 :::::
@@ -343,9 +343,7 @@ polymicrobial bacteremia is relatively uncommon.
 
 {{< video https://youtu.be/9npNQM8ANds?si=ZruROkTkUdF6k11rID width="800" height="500" start="30" >}}
 
-## Diagnosis of SBP: Ascitic fluid examination
-
-<br>
+## Diagnosis of SBP: Ascitic fluid examination {.smaller}
 
 **Essential Tests**
 
@@ -375,7 +373,7 @@ polymicrobial bacteremia is relatively uncommon.
 | SAA \>1.1 g/dL           | Suggests non-peritoneal ascites |
 
 ::: aside
-**SAAG = Serum albumin − Ascitic fluid albumin**
+<br>**SAAG = Serum albumin − Ascitic fluid albumin**
 
 A gradient **≥ 1.1 g/dL** indicates portal hypertension (e.g.,
 cirrhosis, heart failure, Budd-Chiari) with roughly 97% accuracy. A
@@ -384,7 +382,7 @@ peritoneal carcinomatosis, tuberculosis, nephrotic syndrome,
 pancreatitis).
 :::
 
-## SBP variants: Monomicrobial nonneutrocytic bacterascites {.smaller}
+## SBP variants: <br> Monomicrobial nonneutrocytic bacterascites {.smaller}
 
 **Definition**
 
@@ -415,7 +413,7 @@ mechanisms.
 
 ------------------------------------------------------------------------
 
-## SBP variants: Culture-negative neutrocytic ascites {.smaller}
+## SBP variants:  <br> Culture-negative neutrocytic ascites {.smaller}
 
 **Definition**
 
@@ -431,10 +429,9 @@ mechanisms.
 
 **Reasons for Culture Negativity**
 
--   Antibiotic administration before sampling
--   Inadequate culture technique
+-   Antibiotic administration before sampling, Inadequate culture
+    technique
 -   Fastidious organisms
--   Recent antibiotic exposure
 
 **Improved Detection**
 
@@ -452,7 +449,7 @@ source. Treatment principles are similar to culture-positive SBP.
 
 ------------------------------------------------------------------------
 
-## SBP variants: Polymicrobial bacterascites {.smaller}
+## SBP variants:  <br>Polymicrobial bacterascites {.smaller}
 
 **Definition**
 
@@ -488,7 +485,7 @@ samples should prompt repeat paracentesis to assess progression.
 
 ------------------------------------------------------------------------
 
-## Primary peritonitis diagnosis: Recommended paracentesis protocol {.smaller}
+## Primary peritonitis diagnosis: <br>Recommended paracentesis protocol {.smaller}
 
 <br>
 
@@ -697,7 +694,7 @@ advanced liver disease and should be evaluated for transplant candidacy.
 
 ## Secondary peritonitis: Epidemiology
 
-<br> <br>
+<br>
 
 **Prevalence**
 
@@ -738,7 +735,7 @@ intervention or percutaneous drainage alongside antimicrobial therapy.
 
 ## Etiologies of secondary peritonitis (representative)
 
-<br> <br>
+<br>
 
 | Organ System | Common Causes |
 |------------------------------------|------------------------------------|
@@ -747,7 +744,7 @@ intervention or percutaneous drainage alongside antimicrobial therapy.
 | **Appendix** | Perforated appendicitis |
 | **Colon** | Diverticulitis (perforation), toxic megacolon, <br> ischemic colitis |
 | **Biliary** | Perforation of gallbladder, cholangitis |
-| **Gynecologic** | Ruptured tubo-ovarian abscess, perforated ovarian cyst |
+| **Gynecologic** | Ruptured tubo-ovarian abscess, <br> perforated ovarian cyst |
 | **Trauma** | Iatrogenic or penetrating perforation |
 
 ::: aside
@@ -763,7 +760,7 @@ more gram-negative rods and obligate anaerobes.
 
 ## GI tract microbiota and bacterial density
 
-<br> <br>
+<br>
 
 **Bacterial Population Gradient**
 
@@ -828,7 +825,7 @@ carries higher mortality and requires broader empiric coverage.**
 
 ## Secondary peritonitis: Microbiology
 
-<br> <br>
+<br>
 
 **Key Features**
 
@@ -857,7 +854,7 @@ immunosuppression).
 
 ------------------------------------------------------------------------
 
-## Aerobic-anaerobic coverage in secondary peritonitis {.smaller}
+## Aerobic-anaerobic coverage in <br>secondary peritonitis {.smaller}
 
 **Early Infection (First Hours)**
 
@@ -872,6 +869,8 @@ immunosuppression).
 -   Reduced oxygen tension favors anaerobic growth
 -   Enhanced abscess formation (fibrin encapsulation)
 -   Clinical: loculation, persistent fever despite initial therapy
+
+## Aerobic-anaerobic coverage in <br>secondary peritonitis, cont. {.smaller}
 
 **Clinical Consequences**
 
@@ -941,7 +940,7 @@ peritonitis).
 
 **Peritoneal Fluid Exudation**
 
--   Increased permeability → fluid accumulation Containing antibodies,
+-   Increased permeability → fluid accumulation containing antibodies,
     complement, white cells
 -   Dilutes bacteria but may impair local immunity
 
@@ -954,7 +953,7 @@ peritonitis).
 :::
 
 ::: {.column width="40%"}
-<br> <br> <br> <br> <br> o
+<br> <br> <br> <br> <br>
 
 ![](images/peritonitis.png)
 :::
@@ -1054,6 +1053,8 @@ fever. Absence of fever should never exclude peritonitis.
 
 ## Diagnostic workup: Laboratory studies {.smaller}
 
+<br>
+
 **Complete Blood Count**
 
 -   WBC elevation (typically 12,000–20,000)
@@ -1070,7 +1071,7 @@ fever. Absence of fever should never exclude peritonitis.
 
 ## Diagnostic workup: Laboratory studies, cont.
 
-<br> <br>
+<br>
 
 **Chemistry**
 
@@ -1113,6 +1114,8 @@ Wellington Regional Medical Center, FL*
 
 ## Diagnostic imaging: CT performance {.smaller}
 
+<br>
+
 **Sensitivity and Specificity**
 
 -   **CT with IV contrast: 97% sensitivity for complicated IAI**
@@ -1148,9 +1151,9 @@ Wellington Regional Medical Center, FL*
 ::: aside
 CT is the gold standard for imaging secondary peritonitis and guides
 source control decisions. However, clinical deterioration with shock may
-necessitate immediate surgical exploration without imaging. The presence
-of pneumoperitoneum is virtually diagnostic of perforation and indicates
-need for surgical intervention.
+necessitate immediate surgical exploration without imaging. **The
+presence of pneumoperitoneum is virtually diagnostic of perforation and
+indicates need for surgical intervention.**
 :::
 
 ## Secondary peritonitis
@@ -1201,7 +1204,7 @@ respective areas of concern in each panel.
 | **Gram stain** | May show gram-negative rods, gram-positive cocci, anaerobes |
 | **Culture** | Polymicrobial growth expected |
 
-## **Clinical Utility of paracentesis** <br> **in secondary peritonitis**
+## **Clinical utility of paracentesis** <br> **in secondary peritonitis**
 
 <br> <br>
 
@@ -1220,7 +1223,7 @@ initial therapy while awaiting cultures.
 
 ------------------------------------------------------------------------
 
-## Prognosis: Risk stratification in secondary peritonitis {.smaller}
+## Prognosis: <br> Risk stratification in secondary peritonitis {.smaller}
 
 <br> <br>
 
@@ -1243,11 +1246,11 @@ initial therapy while awaiting cultures.
 | Diffuse peritonitis           | 6      |
 | Exudate (purulent)            | 6      |
 
-**MPI Interpretation**
+<center> <br> **MPI Interpretation**
 
 -   MPI \<21: 0% mortality
 -   MPI 21–29: 11% mortality
--   MPI \>29: 47% mortality
+-   MPI \>29: 47% mortality</center>
 
 ::: aside
 Risk scores help counsel patients and families on prognosis and guide
@@ -1302,8 +1305,6 @@ dysfunction.
 
 ## Tertiary peritonitis: Management principles {.smaller}
 
-<br>
-
 **Diagnostic Challenge**
 
 -   Distinguish from inadequately treated secondary peritonitis
@@ -1329,16 +1330,14 @@ dysfunction.
 -   Consider goals of care discussion early
 
 ::: aside
-Tertiary peritonitis represents a transition to palliative care in many
-cases. Aggressive re-exploration without a clear target often worsens
-outcomes. The focus should shift toward supportive care, optimal
-antibiotic coverage guided by cultures, and discussion of realistic
-goals given high mortality.
+<br> Tertiary peritonitis represents a transition to palliative care in
+many cases. Aggressive re-exploration without a clear target often
+worsens outcomes.
 :::
 
 ------------------------------------------------------------------------
 
-## Antimicrobial therapy for secondary peritonitis: <br> An overview
+## Antimicrobial therapy for <br> secondary peritonitis:  An overview
 
 **Goal**
 
@@ -1434,10 +1433,12 @@ history with ESBLs.
 
 ## New antibiotics active against resistant <br> gram-negative bacilli {.smaller}
 
+<br>
+
 ::: {style="font-size: 0.75em;"}
 | Agent | ESBLs | AmpC | KPC | OXA-48 | MBL | CRAB | CRPA |
 |---------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Plazomicin** (not available in EU) | ✓ | ✓ | ✓ | ✓ | ± | ✗ | ✗ |
+| **Plazomicin** <br>(not available in EU) | ✓ | ✓ | ✓ | ✓ | ± | ✗ | ✗ |
 | **Eravacycline** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | **Tigecycline** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | **Temocillin** | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ |
@@ -1468,6 +1469,8 @@ non-carbapenemase-producing *Pseudomonas aeruginosa*).
 
 ## New agents for resistant organisms in <br> secondary peritonitis {.smaller}
 
+<br>
+
 **Extended-Spectrum Agents**
 
 | Agent | Organism Coverage | When to Use |
@@ -1476,7 +1479,7 @@ non-carbapenemase-producing *Pseudomonas aeruginosa*).
 | Ceftazidime-avibactam | Carbapenem-resistant organisms, ESBLs | Suspected resistance, prior carbapenems |
 | Meropenem-vaborbactam | Metallo-β-lactamases, <br> carbapenem-resistant | Last-resort therapy |
 
-## Anti-Candida Agents {.smaller}
+## Anti-*Candida* Agents {.smaller}
 
 <br> <br>
 
@@ -1506,6 +1509,8 @@ high-risk healthcare-associated IAI.
 :::
 
 ## Source Control in Secondary Peritonitis {.smaller}
+
+<br>
 
 **Principles of Source Control**
 
@@ -1931,25 +1936,19 @@ aerobes and anaerobes.
 
 ## Intraperitoneal Abscesses: Clinical Presentation
 
-**Symptoms**
--   **Fever** (may be low-grade, intermittent)
--   **Localized abdominal or flank pain** (depending on location)
--   **GI symptoms**: nausea, vomiting, anorexia (if gastric irritation)
--   **Urinary symptoms**: dysuria, frequency (if bladder compression)
--   **Subphrenic abscess**: Shoulder pain (referred), dyspnea
+**Symptoms** - **Fever** (may be low-grade, intermittent) - **Localized
+abdominal or flank pain** (depending on location) - **GI symptoms**:
+nausea, vomiting, anorexia (if gastric irritation) - **Urinary
+symptoms**: dysuria, frequency (if bladder compression) - **Subphrenic
+abscess**: Shoulder pain (referred), dyspnea
 
+**Physical Findings** - Localized abdominal tenderness (over abscess
+site) - Palpable mass (large collections only) - Fever - Hemodynamic
+instability (if large, with systemic toxicity)
 
-**Physical Findings**
--   Localized abdominal tenderness (over abscess site)
--   Palpable mass (large collections only)
--   Fever
--   Hemodynamic instability (if large, with systemic toxicity)
-
-**Laboratory/Imaging Abnormalities**
--   Leukocytosis (may be modest in chronic abscess)
--   Elevated CRP
--   CT findings: Fluid collection with enhancing rim, air-fluid level if
-    gas-forming organism
+**Laboratory/Imaging Abnormalities** - Leukocytosis (may be modest in
+chronic abscess) - Elevated CRP - CT findings: Fluid collection with
+enhancing rim, air-fluid level if gas-forming organism
 
 ::: aside
 Abscess presentation can be subtle compared to acute peritonitis. Some
@@ -2050,12 +2049,13 @@ including the abscesses and the drain placement.
 
 -   Accessible collection (not multiloculated or complex)
 
--   > 3–4 cm in diameter (smaller often respond to antibiotics alone)
+-   
+
+    > 3–4 cm in diameter (smaller often respond to antibiotics alone)
 
 -   Hemodynamically stable patient
 
 -   Expertise available for image-guided drainage
-
 
 **When Surgery is Preferred**
 
@@ -2218,9 +2218,9 @@ antibiotic chosen.
 
 ## Algorithm: Approach to Suspected IAI {.smaller}
 
-<iframe src="images/intraabdominal-infection-algorithm.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="images/intraabdominal-infection-algorithm.html" width="100%" height="600" style="border:none;">
 
-
+</iframe>
 
 ::: notes
 This algorithm summarizes the diagnostic approach. The key branch points
@@ -2230,9 +2230,8 @@ responding to therapy? Persistent fever or deterioration warrants repeat
 imaging to rule out missed/recurrent infection.
 :::
 
-
-
 ## When to Worry: Red Flags for MDR Organisms {.smaller}
+
 <br> <br>
 
 **High-Risk Features for Resistant Pathogens**
@@ -2247,7 +2246,6 @@ imaging to rule out missed/recurrent infection.
 -   **Candida species** in blood cultures or peritoneal fluid
 -   **Diabetic or renal failure** patients
 -   **Polymicrobial bacteremia** with unusual organisms
-
 
 **Modified Empiric Therapy for High-Risk Patients**
 
@@ -2265,11 +2263,9 @@ organisms and require broader, empiric coverage. De-escalation based on
 cultures is important to prevent antibiotic resistance development.
 :::
 
-
-
 ## Quick Reference: <br> Empiric Antibiotic Selection by Scenario
-<br> <br>
 
+<br> <br>
 
 | Clinical Scenario | First-Line Empiric | Alternative | Duration |
 |------------------|------------------|------------------|------------------|
@@ -2305,5 +2301,5 @@ high-risk or refractory cases.
     advances and clinical perspectives. *Crit Care Med*. 2023.
 
 ## References
-<br>
-<br>
+
+<br> <br>

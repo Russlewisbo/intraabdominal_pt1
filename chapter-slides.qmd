@@ -7,6 +7,7 @@ format:
     theme: custom.scss
     title-slide: false
     slide-number: true
+    lightbox: true
     chalkboard: true
     preview-links: auto
     scrollable: true
@@ -18,7 +19,7 @@ editor:
     wrap: 72
 ---
 
-## Intraabdomal Infections {background-color="#9B0014"}
+## Intraabdominal Infections {background-color="#9B0014"}
 
 <br> <br>
 
@@ -34,11 +35,13 @@ University of Padua
 
 </center>
 
-+-----------------------+-------------------------+
-|                       |                         |
-+-----------------------+-------------------------+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){width="100"} |
 
 ## Learning objectives
+
+<br>
 
 1.  Classify intraabdominal infections (primary vs. secondary vs.
     tertiary)
@@ -71,18 +74,26 @@ to microbial or chemical contamination
 
 ::::: columns
 ::: {.column width="50%"}
+<center>
+
 **By Location**
 
 -   Diffuse
 -   Localized
+
+</center>
 :::
 
 ::: {.column width="50%"}
+<center>
+
 **By Type**
 
 -   Primary (spontaneous)
 -   Secondary
 -   Tertiary
+
+</center>
 :::
 :::::
 
@@ -99,54 +110,12 @@ important for diagnostic imaging and source control planning.
 
 <br> <br>
 
-+--------+--------+--------+--------+
-| F      | P      | S e    | T      |
-| eature | rimary | c      | e      |
-|        |        | ondary | rtiary |
-+========+========+========+========+
-| **I n  | None   | P      | P e r  |
-| t r a  |        | resent | s      |
-| a b    |        | <b     | istent |
-| d      |        | r      | after  |
-| ominal |        | > ( p  | source |
-| s      |        | e r f  | c      |
-| o      |        | o      | ontrol |
-| urce** |        | r      |        |
-|        |        | ation, |        |
-|        |        | i s    |        |
-|        |        | c      |        |
-|        |        | hemia) |        |
-+--------+--------+--------+--------+
-| -      | \~1%   | 80-90% | Less   |
-|   \*Fr | of p e | of     | common |
-|     e  | r i    | cases  |        |
-|     q  | t      |        |        |
-|        | onitis |        |        |
-| u e    |        |        |        |
-| n      |        |        |        |
-| cy\*\* |        |        |        |
-+--------+--------+--------+--------+
-| -   \* | M o n  | P o l  | MDR, g |
-|     T  | o m i  | y m i  | r a    |
-| ypical | c      | c      | m - n  |
-|     o  | robial | robial | e      |
-|     r  | g r a  | ae r o | gative |
-|     g  | m - n  | b i c  | <br    |
-|        | e      | / a n  | > l o  |
-|    ani | gative | a      | w - v  |
-|     s  |        | erobic | i      |
-| ms\*\* |        |        | r      |
-|        |        |        | ulence |
-+--------+--------+--------+--------+
-| -      | 5-20%  | 10-40% | 30-64% |
-|   \*Mo |        |        |        |
-|     r  |        |        |        |
-|     t  |        |        |        |
-|        |        |        |        |
-| a l    |        |        |        |
-| i      |        |        |        |
-| ty\*\* |        |        |        |
-+--------+--------+--------+--------+
+| Feature | Primary | Secondary | Tertiary |
+|------------------|------------------|------------------|------------------|
+| **Intraabdominal source** | None | Present <br>(perforation, ischemia) | Persistent after <br> source control |
+| **Frequency** | \~1% of peritonitis cases | 80–90% of cases | Less common |
+| **Typical organisms** | Monomicrobial gram-negative | Polymicrobial aerobic/anaerobic | MDR, gram-negative, low virulence |
+| **Mortality** | 5–20% | 10–40% | 30–64% |
 
 ::: notes
 This table encapsulates the clinical distinctions. Primary peritonitis
@@ -163,14 +132,14 @@ cultures, and surgical decision-making.
 
 <br>
 
-**Community-Acquired** (\~80% of IAI)
+**Community-acquired** (\~80% of IAI)
 
 -   Further subdivided: low-risk vs. high-risk
 -   Risk factors: drug-resistant bacteria, severity
     (mild/moderate/severe), comorbidities
 -   Common pathogens: *E. coli, Klebsiella*, anaerobes
 
-**Healthcare-Associated**
+**Healthcare-associated**
 
 -   Complications of elective or emergency abdominal surgery
 -   Nosocomial isolates (MRSA, MDR gram-negatives, *Candida*)
@@ -213,13 +182,11 @@ a major reason for early recognition and intervention in suspected
 appendicitis, diverticulitis, and cholecystitis.
 :::
 
-------------------------------------------------------------------------
-
 # Primary peritonitis (SBP) {background-color="#9B0014"}
 
-------------------------------------------------------------------------
+## Primary peritonitis: Epidemiology
 
-## Primary peritonitis: Epidemiology <br> <br>
+<br> <br>
 
 ::::: columns
 ::: {.column width="25%"}
@@ -227,9 +194,9 @@ appendicitis, diverticulitis, and cholecystitis.
 :::
 
 ::: {.column width="75%"}
--   **Prevalence** - Accounts for \~1% of all peritonitis cases
+-   **Prevalence** — Accounts for \~1% of all peritonitis cases
 
-    -   Present in 10-30% of hospitalized cirrhotic patients with
+    -   Present in 10–30% of hospitalized cirrhotic patients with
         ascites
 
 -   **High-Risk Patient Groups**
@@ -268,19 +235,19 @@ C or high MELD) is a major risk factor.
 ::: {.column width="63%"}
 <br> <br> <br>
 
--   **High-volume ascites** (advanced cirrhosis, Child-Pugh class C)
+-   High-volume ascites (advanced cirrhosis, Child-Pugh class C)
 
--   **High Model for End-Stage Liver Disease (MELD) score**
+-   High Model for End-Stage Liver Disease (MELD) score
 
--   **Coexisting gastrointestinal hemorrhage**
+-   Coexisting gastrointestinal hemorrhage
 
--   **Previous SBP episode**
+-   Previous SBP episode
 
--   **Low ascitic fluid protein** (\<1 g/dL)
+-   Low ascitic fluid protein (\<1 g/dL)
 
--   **Elevated serum bilirubin** (\>2.5 mg/dL)
+-   Elevated serum bilirubin (\>2.5 mg/dL)
 
--   **Proton pump inhibitor use** (reduces gastric acidity, increases
+-   Proton pump inhibitor use (reduces gastric acidity, increases
     translocation)
 :::
 :::::
@@ -309,19 +276,19 @@ killing.
 1.  *Escherichia coli* (most frequent)
 2.  *Klebsiella pneumoniae*
 3.  Other Enterobacterales
-4.  *Streptococcus pneumoniae*
+4.  *Streptococcus pneumoniae* (especially pediatrics)
 5.  Other streptococci (including enterococci)
 6.  Anaerobes (uncommon)
-7.  Pseudomonas (rare)
+7.  *Pseudomonas aeruginosa* (rare)
 
-**Gram-Negative Dominance** - 60-69% of cases caused by gram-negative
-enteric bacteria - Organisms presumed of gastrointestinal origin
+**Gram-Negative Dominance** — 60–69% of cases caused by gram-negative
+enteric bacteria; <br> organisms presumed of gastrointestinal origin
 
 <br>
 
 ::: aside
 The predominance of gram-negatives reflects bacterial translocation from
-the GI tract. *S. aureus* is unusual (2-4% of cases) and may indicate
+the GI tract. *S. aureus* is unusual (2–4% of cases) and may indicate
 umbilical hernia erosion. Anaerobes are reported infrequently, possibly
 due to the bacteriostatic activity of ascites against *Bacteroides spp.*
 and the relatively high oxygen tension in peritoneal fluid. In pediatric
@@ -338,14 +305,15 @@ cases, hematogenous spread of *S. pneumoniae* is more common.
 
 -   Passage of viable bacteria from the GI tract lumen to mesenteric
     lymph nodes and bloodstream
--   Increased risk with portal hypertension and collateral formation
+-   Increased risk with portal hypertension and collateral vessel
+    formation
 -   Enhanced by decreased gastric acidity (PPI use) and altered bowel
     flora
 
 **Hematogenous Seeding**
 
 -   Bacteria reach peritoneal cavity via circulating blood
--   Explains predominantly monomicrobial pattern
+-   Explains predominantly **monomicrobial pattern**
 -   Bacteremia present in 75% of cases with aerobic organisms
 
 **Host Factors**
@@ -369,13 +337,37 @@ seeds it as a single species. The blood essentially acts as a filter —
 polymicrobial bacteremia is relatively uncommon.
 :::
 
+## Clinical presentation
+
+<br>
+
+-   Fever (\> 37.8° C)
+
+-   Nausea and vomiting
+
+-   Diarrhea
+
+-   Abdominal pain
+
+    -   Tenderness
+
+    -   Rebound tenderness
+
+    -   Bowel sounds hypoactive or absent
+
+-   Cirrhosis - large volume ascites
+
 ## Paracentesis
+
+<br>
+
+<center>
 
 {{< video https://youtu.be/9npNQM8ANds?si=ZruROkTkUdF6k11rID width="800" height="500" start="30" >}}
 
-## Diagnosis of SBP: Ascitic fluid examination
+</center>
 
-<br>
+## Diagnosis of SBP: Ascitic fluid examination {.smaller}
 
 **Essential Tests**
 
@@ -404,28 +396,27 @@ polymicrobial bacteremia is relatively uncommon.
 | Ascitic culture positive | Confirms SBP                    |
 | SAA \>1.1 g/dL           | Suggests non-peritoneal ascites |
 
-::: notes
-The SAA gradient helps exclude portal hypertension as the cause of
-ascites. A positive culture with PMN \>250 is diagnostic. However,
-antibiotics may be initiated before culture results, making the PMN
-count critical. Blood culture bottles increase yield for
-culture-negative cases. Glucose typically low in SBP, amylase may be
-elevated in pancreatic disease.
+::: aside
+<br>**SAA = Serum albumin − Ascitic fluid albumin**
+
+A gradient **≥ 1.1 g/dL** indicates portal hypertension (e.g.,
+cirrhosis, heart failure, Budd-Chiari) with roughly 97% accuracy. A
+gradient **\< 1.1 g/dL** suggests a non–portal hypertensive cause (e.g.,
+peritoneal carcinomatosis, tuberculosis, nephrotic syndrome,
+pancreatitis).
 :::
 
-------------------------------------------------------------------------
-
-## SBP variants: Monomicrobial <br> nonneutrocytic bacterascites {.smaller}
+## SBP variants: <br> Monomicrobial nonneutrocytic bacterascites {.smaller}
 
 **Definition**
 
--   Positive ascitic fluid culture
--   PMN \<250 cells/mm³
+-   **Positive ascitic fluid culture**
+-   **PMN \<250 cells/mm³**
 -   No clinical peritonitis signs
 
 **Natural History**
 
--   Resolves spontaneously in 62-86% of cases
+-   Resolves spontaneously in 62–86% of cases
 -   Progresses to SBP in remainder (sometimes within hours)
 -   Mortality same as classic SBP regardless of neutrophil response
 
@@ -446,12 +437,12 @@ mechanisms.
 
 ------------------------------------------------------------------------
 
-## SBP variants: <br> Culture-negative Nnutrocytic ascites {.smaller}
+## SBP variants: <br> Culture-negative neutrocytic ascites {.smaller}
 
 **Definition**
 
--   PMN \>250 cells/mm³
--   Negative ascitic fluid culture
+-   **PMN \>250 cells/mm³**
+-   **Negative ascitic fluid culture**
 -   No evident intraabdominal surgical source
 -   Absence of pancreatitis
 
@@ -462,14 +453,13 @@ mechanisms.
 
 **Reasons for Culture Negativity**
 
--   Antibiotic administration before sampling
--   Inadequate culture technique
+-   Antibiotic administration before sampling, Inadequate culture
+    technique
 -   Fastidious organisms
--   Recent antibiotic exposure
 
 **Improved Detection**
 
--   Inoculate 10-20 mL ascitic fluid into blood culture bottles at
+-   Inoculate 10–20 mL ascitic fluid into blood culture bottles at
     bedside
 -   Increases culture yield significantly
 
@@ -483,7 +473,7 @@ source. Treatment principles are similar to culture-positive SBP.
 
 ------------------------------------------------------------------------
 
-## SBP variants: Polymicrobial bacterascites {.smaller}
+## SBP variants: <br>Polymicrobial bacterascites {.smaller}
 
 **Definition**
 
@@ -519,9 +509,11 @@ samples should prompt repeat paracentesis to assess progression.
 
 ------------------------------------------------------------------------
 
-## Primary peritonitis diagnosis: Recommended aracentesis protocol {.smaller}
+## Primary peritonitis diagnosis: <br>Recommended paracentesis protocol {.smaller}
 
-<br> **Universal Recommendation for Cirrhotic Patients**
+<br>
+
+**Universal Recommendation for Cirrhotic Patients**
 
 -   Diagnostic paracentesis on **hospital admission** for all cirrhotic
     patients with ascites
@@ -537,7 +529,7 @@ samples should prompt repeat paracentesis to assess progression.
 
 **Specimen Handling**
 
--   Inoculate blood culture bottles at bedside (10-20 mL)
+-   Inoculate blood culture bottles at bedside (10–20 mL)
 -   Obtain cell count, differential, protein, glucose, amylase
 -   Gram stain for rapid assessment
 
@@ -551,12 +543,14 @@ culture-negative cases.
 
 ------------------------------------------------------------------------
 
-## Treatment of SBP: Empiric therapy <br> <br>
+## Treatment of SBP: Empiric therapy
+
+<br> <br>
 
 **First-Line Agent**
 
--   **Cefotaxime** 2 g IV every 6-8 hours (or 3 g every 6 hours for
-    high-risk patients)
+-   **Cefotaxime** 2 g IV every 6–8 hours (or 3 g every 6 hours for
+    high-risk patients) or other 3rd generation cephalosporin
 -   Covers gram-negative enteric bacteria and streptococci
 -   Can transition to oral after initial response
 -   If recent history of MDR colonization or infection, may require
@@ -629,6 +623,7 @@ patients at risk for hepatorenal syndrome.
 **Duration of Therapy**
 
 -   **5 days of IV cefotaxime** is sufficient for uncomplicated SBP
+    (ineffective for ESBL producing isolates)
 -   May transition to oral fluoroquinolone or cephalosporin
 -   Repeat paracentesis not needed if clinical improvement occurs
 
@@ -640,7 +635,7 @@ patients at risk for hepatorenal syndrome.
 
 **Prognosis After SBP**
 
--   **In-hospital mortality:** 5-20%
+-   **In-hospital mortality:** 5–20%
 -   **Long-term survival:** Poor—survivors warrant liver transplant
     assessment
 -   Liver disease severity (MELD, bilirubin) predicts outcomes
@@ -674,9 +669,10 @@ severe underlying liver disease.
 
 **Efficacy**
 
--   Reduces SBP incidence by 50-60%
+-   Reduces SBP incidence by 50–60%
 -   Improves short-term survival
 -   Cost-effective in high-risk patients
+-   Recent meta-analysis have questioned efficacy
 
 ::: notes
 Primary prophylaxis focuses on patients with the highest risk—those with
@@ -723,11 +719,11 @@ advanced liver disease and should be evaluated for transplant candidacy.
 
 ## Secondary peritonitis: Epidemiology
 
-<br> <br>
+<br>
 
 **Prevalence**
 
--   Most common intraabdominal infection (80-90% of cases)
+-   Most common intraabdominal infection (80–90% of cases)
 -   Results from visceral perforation or intraabdominal pathology
 
 **Common Causes**
@@ -764,38 +760,17 @@ intervention or percutaneous drainage alongside antimicrobial therapy.
 
 ## Etiologies of secondary peritonitis (representative)
 
-<br> <br>
+<br>
 
-+-----------------------+-------------------------+
-| Organ System          | Common Causes           |
-+=======================+=========================+
-| **Upper GI**          | Perforated peptic       |
-|                       | ulcer, perforated       |
-|                       | gastric ulcer           |
-+-----------------------+-------------------------+
-| **Small bowel**       | Meckel's                |
-|                       | diverticulitis, small   |
-|                       | bowel perforation,      |
-|                       | ischemic necrosis       |
-+-----------------------+-------------------------+
-| **Appendix**          | Perforated appendicitis |
-+-----------------------+-------------------------+
-| **Colon**             | Diverticulitis          |
-|                       | (perforation), toxic    |
-|                       | megacolon, ischemic     |
-|                       | colitis                 |
-+-----------------------+-------------------------+
-| **Biliary**           | Perforation of          |
-|                       | gallbladder,            |
-|                       | cholangitis             |
-+-----------------------+-------------------------+
-| **Gynecologic**       | Ruptured tubo-ovarian   |
-|                       | abscess, perforated     |
-|                       | ovarian cyst            |
-+-----------------------+-------------------------+
-| **Trauma**            | Iatrogenic or           |
-|                       | penetrating perforation |
-+-----------------------+-------------------------+
+| Organ System | Common Causes |
+|------------------------------------|------------------------------------|
+| **Upper GI** | Perforated peptic ulcer, perforated gastric ulcer |
+| **Small bowel** | Meckel's diverticulitis, small bowel perforation, ischemic necrosis |
+| **Appendix** | Perforated appendicitis |
+| **Colon** | Diverticulitis (perforation), toxic megacolon, <br> ischemic colitis |
+| **Biliary** | Perforation of gallbladder, cholangitis |
+| **Gynecologic** | Ruptured tubo-ovarian abscess, <br> perforated ovarian cyst |
+| **Trauma** | Iatrogenic or penetrating perforation |
 
 ::: aside
 This table emphasizes that secondary peritonitis can originate from
@@ -810,14 +785,14 @@ more gram-negative rods and obligate anaerobes.
 
 ## GI tract microbiota and bacterial density
 
-<br> <br>
+<br>
 
 **Bacterial Population Gradient**
 
--   **Stomach**: 10³-10⁴ CFU/mL (mostly anaerobes suppressed by acid)
--   **Small intestine**: 10⁴-10⁷ CFU/mL (increasing distally)
--   **Terminal ileum**: 10⁷-10⁹ CFU/mL (mixed aerobic/anaerobic)
--   **Colon**: 10¹¹-10¹² CFU/mL (predominantly anaerobes \>aerobes by
+-   **Stomach**: 10³–10⁴ CFU/mL (most anaerobes suppressed by acid)
+-   **Small intestine**: 10⁴–10⁷ CFU/mL (increasing distally)
+-   **Terminal ileum**: 10⁷–10⁹ CFU/mL (mixed aerobic/anaerobic)
+-   **Colon**: 10¹¹–10¹² CFU/mL (predominantly anaerobes \> aerobes by
     1000:1)
 
 **Clinical Implication**
@@ -831,8 +806,8 @@ This density gradient is critical for understanding secondary
 peritonitis microbiology. A perforated duodenal ulcer introduces mostly
 aerobic organisms and some anaerobes, while colonic perforation
 introduces massive inocula of obligate anaerobes, facultative
-gram-negatives, and enterococci. This explains why colonic perforation
-carries higher mortality and requires broader empiric coverage.
+gram-negatives, and enterococci. **This explains why colonic perforation
+carries higher mortality and requires broader empiric coverage.**
 :::
 
 ## Causes of secondary peritonitis {.smaller}
@@ -842,22 +817,22 @@ carries higher mortality and requires broader empiric coverage.
 | **Distal esophagus** | Boerhaave syndrome |
 |  | Malignancy |
 |  | Trauma |
-|  | Iatrogenic ^a^ |
+|  | Iatrogenic |
 | **Stomach** | Peptic ulcer perforation |
 |  | Malignancy |
 |  | Trauma |
-|  | Iatrogenic ^a^ |
+|  | Iatrogenic |
 | **Duodenum** | Peptic ulcer perforation |
 |  | Trauma |
-|  | Iatrogenic ^a^ |
+|  | Iatrogenic^a^ |
 | **Biliary tract** | Cholecystitis |
 |  | Stone perforation from gallbladder or common duct |
 |  | Malignancy |
 |  | Trauma |
-|  | Iatrogenic ^a^ |
+|  | Iatrogenic |
 | **Pancreas** | Pancreatitis (e.g., alcohol, drugs, gallstones) |
 |  | Trauma |
-|  | Iatrogenic ^a^ |
+|  | Iatrogenic |
 | **Small bowel** | Ischemic bowel |
 |  | Incarcerated hernia |
 |  | Crohn disease |
@@ -871,64 +846,40 @@ carries higher mortality and requires broader empiric coverage.
 |  | Appendicitis |
 |  | Volvulus |
 |  | Trauma (mostly penetrating) |
-|  | Iatrogenic ^a^ |
+|  | Iatrogenic |
 
 ## Secondary peritonitis: Microbiology
 
-<br> <br>
+<br>
 
 **Key Features**
 
--   **Polymicrobial** (2-5 organisms typical, up to 10+)
+-   **Polymicrobial** (2–5 organisms typical, up to 10+)
 -   Reflects normal GI flora
--   Aerobic-anaerobic polymicrobial common
+-   Aerobic-anaerobic polymicrobial common (not all may grown in
+    culture)
 
 **Dominant Organisms**
 
-+--------------+--------------+--------------+
-| Category     | Examples     | Prevalence   |
-+==============+==============+==============+
-| -   \        | *E. coli,    | 60-80%       |
-|     \        | Klebsiella,  |              |
-|     \        | Proteus,     |              |
-|     \*       | E            |              |
-|     G        | nterobacter* |              |
-| ram-negative |              |              |
-|     rods\*\* |              |              |
-+--------------+--------------+--------------+
-| *            | *Bacteroides | 60-90%       |
-| *Anaerobes** | fragilis*,   |              |
-|              | anaerobic    |              |
-|              | cocci,       |              |
-|              | *            |              |
-|              | Clostridium* |              |
-+--------------+--------------+--------------+
-| -   \        | -   S        | 40-60%       |
-|     \        |     t        |              |
-|     \        | reptococcus, |              |
-|     \*       |              |              |
-|     G        | E            |              |
-| ram-positive | nterococcus, |              |
-|              | S t          |              |
-|    cocci\*\* |              |              |
-|              | a            |              |
-|              | p            |              |
-|              | hylococcus\* |              |
-+--------------+--------------+--------------+
+| Category | Examples | Prevalence |
+|------------------------|------------------------|------------------------|
+| **Gram-negative rods** | *E. coli, Klebsiella, Proteus, Enterobacter* | 60–80% |
+| **Anaerobes** | *Bacteroides fragilis*, anaerobic cocci, *Clostridium* | 60–90% |
+| **Gram-positive cocci** | *Streptococcus, Enterococcus, Staphylococcus* | 40–60% |
 
 ::: aside
 The polymicrobial nature of secondary peritonitis contrasts sharply with
 primary peritonitis. Multiple organisms allow synergistic pathogenesis:
 gram-negatives cause early sepsis and toxemia, while anaerobes
 (especially *B. fragilis*) promote abscess formation. Enterococci are
-present in 30-60% of cases; their treatment significance remains debated
+present in 30–60% of cases; their treatment significance remains debated
 but is important in high-risk patients (recent cephalosporin exposure,
 immunosuppression).
 :::
 
 ------------------------------------------------------------------------
 
-## Aerobic-anaerobic coverage in secondary peritonitis {.smaller}
+## Aerobic-anaerobic coverage in <br>secondary peritonitis {.smaller}
 
 **Early Infection (First Hours)**
 
@@ -944,6 +895,8 @@ immunosuppression).
 -   Enhanced abscess formation (fibrin encapsulation)
 -   Clinical: loculation, persistent fever despite initial therapy
 
+## Aerobic-anaerobic coverage in <br>secondary peritonitis, cont. {.smaller}
+
 **Clinical Consequences**
 
 -   Single-agent therapy (e.g., cephalosporin alone) inadequate
@@ -951,9 +904,9 @@ immunosuppression).
 -   Source control essential to disrupt both populations
 
 ::: aside
-This synergy concept explains why inadequate anaerobic coverage leads to
-treatment failure, recurrent fever, and abscess formation even when
-gram-negative coverage is appropriate. It reinforces the need for
+**This synergy concept explains why inadequate anaerobic coverage leads
+to treatment failure, recurrent fever, and abscess formation even when
+gram-negative coverage is appropriate.** It reinforces the need for
 combination therapy in secondary peritonitis—β-lactam/β-lactamase
 inhibitor combinations, carbapenems, or cephalosporin + metronidazole
 combinations.
@@ -961,7 +914,7 @@ combinations.
 
 ------------------------------------------------------------------------
 
-## Pathogenesis and virulence factors in secondary peritonitis {.smaller}
+## Pathogenesis and virulence factors in <br>secondary peritonitis {.smaller}
 
 **Initial Contamination**
 
@@ -997,23 +950,23 @@ peritonitis).
 ## Pathophysiology: Local response to <br> secondary peritonitis {.smaller}
 
 ::::: columns
-::: {.column width="50%"}
+::: {.column width="60%"}
 **Fibrin Deposition**
 
--   Fibrinogen converts to fibrin clot at peritoneal surface
--   Forms barrier limiting bacterial spread
+-   Fibrinogen converts to fibrin clot at peritoneal surface, forms
+    barrier limiting bacterial spread
 -   Encapsulates contaminated area
 
 **Omental "Walling Off"**
 
--   Greater omentum migrates to infection site
--   Forms physical barrier around infection focus
+-   Greater omentum migrates to infection site, forms physical barrier
+    around infection focus
 -   Limits spread to distant peritoneal recesses
 
 **Peritoneal Fluid Exudation**
 
--   Increased permeability → fluid accumulation
--   Contains antibodies, complement, white cells
+-   Increased permeability → fluid accumulation containing antibodies,
+    complement, white cells
 -   Dilutes bacteria but may impair local immunity
 
 **Compartmentalization**
@@ -1024,8 +977,8 @@ peritonitis).
 -   Explains localization patterns and abscess locations
 :::
 
-::: {.column width="50%"}
-<br> <br>
+::: {.column width="40%"}
+<br> <br> <br> <br> <br>
 
 ![](images/peritonitis.png)
 :::
@@ -1041,24 +994,41 @@ devitalized tissue—is essential in secondary peritonitis.
 
 ------------------------------------------------------------------------
 
-## Pathophysiology: Systemic response to secondary peritonitis <br> <br> {.smaller}
+## Pathophysiology: Systemic response to <br> secondary peritonitis {.smaller}
 
--   **SIRS (Systemic Inflammatory Response Syndrome)** - Fever,
-    tachycardia, tachypnea, leukocytosis - Results from TNF-α, IL-1,
-    IL-6 release - May progress to sepsis and multiorgan failure
+<br> <br>
 
--   **Hemodynamic Changes** - Initial phase: vasoconstriction
-    (compensatory) - Late phase: vasodilation and increased capillary
-    permeability - Hypovolemia and hypotension (septic shock)
+::::: columns
+::: {.column width="50%"}
+**SIRS (Systemic Inflammatory Response Syndrome)**
 
--   **Organ Dysfunction** - Renal hypoperfusion → acute kidney injury -
-    Pulmonary capillary leak → ARDS - Hepatic dysfunction →
-    coagulopathy - GI hypomotility → ileus
+-   Fever, tachycardia, tachypnea, leukocytosis
+-   Results from TNF-α, IL-1, IL-6 release
+-   May progress to sepsis and multiorgan failure
 
--   **Mortality Correlation** - Extent of organ dysfunction predicts
-    outcome - Reflected in APACHE II [@Ref176] score, Mannheim
-    Peritonitis Index [@Ref178] - Delayed recognition/treatment
-    increases mortality
+**Hemodynamic Changes**
+
+-   Initial phase: vasoconstriction (compensatory)
+-   Late phase: vasodilation and increased capillary permeability
+-   Hypovolemia and hypotension (septic shock)
+:::
+
+::: {.column width="50%"}
+**Organ Dysfunction**
+
+-   Renal hypoperfusion → acute kidney injury
+-   Pulmonary capillary leak → ARDS
+-   Hepatic dysfunction → coagulopathy
+-   GI hypomotility → ileus
+
+**Mortality Correlation**
+
+-   Extent of organ dysfunction predicts outcome
+-   Reflected in APACHE II [@Ref176] score, Mannheim Peritonitis Index
+    [@Ref178]
+-   Delayed recognition/treatment increases mortality
+:::
+:::::
 
 ::: notes
 The systemic response can be as life-threatening as local infection.
@@ -1106,34 +1076,40 @@ fever. Absence of fever should never exclude peritonitis.
 
 ------------------------------------------------------------------------
 
-## Diagnostic workup: <br> Laboratory studies {.smaller}
+## Diagnostic workup: Laboratory studies {.smaller}
 
-**Complete Blood Count** - WBC elevation (typically 12,000-20,000) -
-Left shift (immature bands) indicates severity - Absence of leukocytosis
-does not exclude peritonitis
+<br>
+
+**Complete Blood Count**
+
+-   WBC elevation (typically 12,000–20,000)
+-   Left shift (immature bands) indicates severity
+-   Absence of leukocytosis does not exclude peritonitis
 
 **Inflammatory Markers**
 
-+--------------------+--------------------------------+
-| Test               | Utility                        |
-+====================+================================+
-| **C-reactive       | Elevated; reflects severity    |
-| protein (CRP)**    |                                |
-+--------------------+--------------------------------+
-| **Procalcitonin**  | \>2 ng/mL suggests bacterial   |
-|                    | peritonitis; guides            |
-|                    | de-escalation                  |
-+--------------------+--------------------------------+
-| **Lactate**        | Elevated in sepsis; correlates |
-|                    | with severity                  |
-+--------------------+--------------------------------+
+| Test | Utility |
+|------------------------------------|------------------------------------|
+| **C-reactive protein (CRP)** | Elevated; reflects severity |
+| **Procalcitonin** | \>2 ng/mL suggests bacterial peritonitis; guides de-escalation |
+| **Lactate** | Elevated in sepsis; correlates with severity |
 
-**Chemistry** - Renal function (creatinine, BUN) - Electrolytes
-(hypokalemia common from GI losses) - Liver function tests - Glucose
-(hyperglycemia or hypoglycemia possible)
+## Diagnostic workup: Laboratory studies, cont.
 
-**Blood Cultures** - Obtain before antibiotics if possible - Positive in
-20-40% of secondary peritonitis - Guide specific organism coverage
+<br>
+
+**Chemistry**
+
+-   Renal function (creatinine, BUN)
+-   Electrolytes (hypokalemia common from GI losses)
+-   Liver function tests
+-   Glucose (hyperglycemia or hypoglycemia possible)
+
+**Blood Cultures**
+
+-   Obtain before antibiotics if possible
+-   Positive in 20–40% of secondary peritonitis
+-   Guide specific organism coverage
 
 ::: aside
 Laboratory findings support but do not prove peritonitis. WBC and CRP
@@ -1148,6 +1124,8 @@ severe disease.
 
 ## Diagnostic imaging: CT abdomen/pelvis
 
+<br>
+
 ![](images/IP_abscess.png){fig-align="center"}
 
 ::: aside
@@ -1155,13 +1133,17 @@ Intraperitoneal abscess (arrow) following a posthemicolectomy
 anastomosis leak for diverticulitis, with a percutaneous drainage
 catheter (CT scan of abdomen and pelvis, coronal view). (B) Evidence
 extravasation of contrast (arrows) in the surgical site of Hartmann
-pouch procedure (Gastrografin enema).*Courtesy Thomas Marino, MD,
+pouch procedure (Gastrografin enema). *Courtesy Thomas Marino, MD,
 Wellington Regional Medical Center, FL*
 :::
 
+## Diagnostic imaging: CT performance {.smaller}
+
+<br>
+
 **Sensitivity and Specificity**
 
--   CT with IV contrast: **97% sensitivity** for complicated IAI
+-   **CT with IV contrast: 97% sensitivity for complicated IAI**
 -   Best imaging modality for secondary peritonitis and abscesses
 
 **Key CT Findings**
@@ -1175,10 +1157,16 @@ Wellington Regional Medical Center, FL*
 **Contraindications**
 
 -   Hemodynamic instability (may necessitate OR before imaging)
+
 -   Renal insufficiency (contrast nephropathy risk)
+
 -   Iodine allergy
 
-**Alternative Imaging**
+## **Alternative imaging**
+
+<br>
+
+![](images/ultrasound.png){fig-align="center"}
 
 -   **Ultrasound**: Portable, real-time, good for fluid assessment;
     lower sensitivity than CT
@@ -1188,28 +1176,9 @@ Wellington Regional Medical Center, FL*
 ::: aside
 CT is the gold standard for imaging secondary peritonitis and guides
 source control decisions. However, clinical deterioration with shock may
-necessitate immediate surgical exploration without imaging. The presence
-of pneumoperitoneum is virtually diagnostic of perforation and indicates
-need for surgical intervention.
-:::
-
-------------------------------------------------------------------------
-
-## Liver abscess
-
-![](images/liver_abscess.png){fig-align="center"}
-
-::: aside
-The illustration shows multiple liver abscesses with an arrow and
-abnormal terminal ileum in panel A, and a percutaneously placed drain in
-one abscess in panel B. Panel A shows a computed tomography scan of the
-abdomen and pelvis in a coronal view, indicating multiple liver
-abscesses, marked with an arrow, and an abnormal terminal ileum located
-caudal to the liver. The abscesses are surrounded by secondarily
-infected ascites. Panel B presents a computed tomography scan in an
-axial view, showing a percutaneously placed drain in one of the liver
-abscesses. Arrows point to the areas of concern in both panels,
-including the abscesses and the drain placement
+necessitate immediate surgical exploration without imaging. **The
+presence of pneumoperitoneum is virtually diagnostic of perforation and
+indicates need for surgical intervention.**
 :::
 
 ## Secondary peritonitis
@@ -1217,7 +1186,7 @@ including the abscesses and the drain placement
 ![](images/hysterectomy.png){fig-align="center"}
 
 ::: aside
-The three panel C T scan of abdomen and pelvis with coronal views. Panel
+The three panel CT scan of abdomen and pelvis with coronal views. Panel
 A shows a large complex fluid collection, marked with an arrow,
 containing air in the pelvis following a hysterectomy. Panel B shows a
 computed tomography scan of the abdomen and pelvis in a coronal view
@@ -1232,42 +1201,37 @@ respective areas of concern in each panel.
 
 ## Paracentesis and peritoneal cultures {.smaller}
 
+::::: columns
+::: {.column width="50%"}
 **Indications**
 
 -   Confirm diagnosis when imaging equivocal
 -   Obtain organisms for culture and susceptibility
 -   Obtain cell count and fluid analysis
+:::
 
+::: {.column width="50%"}
 **Technique**
 
 -   Sterile procedure (surgical preparation)
 -   Avoid areas of adhesion, stomas, surgical wounds
--   Obtain 20-30 mL in sterile container
+-   Obtain 20–30 mL in sterile container
 -   Send for Gram stain, culture, cell count
+:::
+:::::
 
 **Fluid Analysis**
 
-+---------------------------+---------------------+
-| Parameter                 | Finding             |
-+===========================+=====================+
-| **Appearance**            | Turbid, purulent,   |
-|                           | bloody              |
-+---------------------------+---------------------+
-| **PMN count**             | Usually             |
-|                           | \>50,000/mm³ in     |
-|                           | secondary           |
-|                           | peritonitis         |
-+---------------------------+---------------------+
-| **Gram stain**            | May show            |
-|                           | gram-negative rods, |
-|                           | gram-positive       |
-|                           | cocci, anaerobes    |
-+---------------------------+---------------------+
-| **Culture**               | Polymicrobial       |
-|                           | growth expected     |
-+---------------------------+---------------------+
+| Parameter | Finding |
+|------------------------------------|------------------------------------|
+| **Appearance** | Turbid, purulent, bloody |
+| **PMN count** | Usually \>50,000/mm³ in secondary peritonitis |
+| **Gram stain** | May show gram-negative rods, gram-positive cocci, anaerobes |
+| **Culture** | Polymicrobial growth expected |
 
-**Clinical Utility**
+## **Clinical utility of paracentesis** <br> **in secondary peritonitis**
+
+<br> <br>
 
 -   Gram stain may guide initial therapy
 -   Culture confirms organisms and guides de-escalation
@@ -1284,7 +1248,9 @@ initial therapy while awaiting cultures.
 
 ------------------------------------------------------------------------
 
-## Prognosis: Risk stratification in secondary peritonitis {.smaller}
+## Prognosis: <br> Risk stratification in secondary peritonitis {.smaller}
+
+<br> <br>
 
 **APACHE II Score**
 
@@ -1292,7 +1258,7 @@ initial therapy while awaiting cultures.
 -   APACHE II \>15 associated with 50% mortality
 -   APACHE II \>25 associated with \>80% mortality
 
-**Mannheim Peritonitis Index (MPI)**
+## **Mannheim Peritonitis Index (MPI)**
 
 | Factor                        | Points |
 |-------------------------------|--------|
@@ -1305,11 +1271,17 @@ initial therapy while awaiting cultures.
 | Diffuse peritonitis           | 6      |
 | Exudate (purulent)            | 6      |
 
-**MPI Interpretation**
+<center>
+
+<br> **MPI Interpretation**
 
 -   MPI \<21: 0% mortality
--   MPI 21-29: 11% mortality
+
+-   MPI 21–29: 11% mortality
+
 -   MPI \>29: 47% mortality
+
+    </center>
 
 ::: aside
 Risk scores help counsel patients and families on prognosis and guide
@@ -1333,9 +1305,9 @@ physiology improves.
 
 **Epidemiology**
 
--   Occurs in 3-10% of secondary peritonitis cases
+-   Occurs in 3–10% of secondary peritonitis cases
 -   Associated with delayed source control
--   Higher mortality: 30-64%
+-   Higher mortality: 30–64%
 
 **Microbiology**
 
@@ -1371,8 +1343,6 @@ dysfunction.
 
 **Management Approach**
 
-<div>
-
 -   **Repeat imaging** (CT) to identify new source
 -   **Selective repeat surgery** only if surgically correctable source
     identified
@@ -1383,26 +1353,22 @@ dysfunction.
     vancomycin pending cultures
 -   **Consider antifungal therapy** (Candida common)
 
-</div>
-
 **Prognosis**
 
--   Mortality 30-64% despite appropriate management
+-   Mortality 30–64% despite appropriate management
 -   Poor prognostic factors: organ failure, delayed recognition,
     immunosuppression
 -   Consider goals of care discussion early
 
 ::: aside
-Tertiary peritonitis represents a transition to palliative care in many
-cases. Aggressive re-exploration without a clear target often worsens
-outcomes. The focus should shift toward supportive care, optimal
-antibiotic coverage guided by cultures, and discussion of realistic
-goals given high mortality.
+<br> Tertiary peritonitis represents a transition to palliative care in
+many cases. Aggressive re-exploration without a clear target often
+worsens outcomes.
 :::
 
 ------------------------------------------------------------------------
 
-## Antimicrobial therapy for secondary peritonitis: <br>An overview
+## Antimicrobial therapy for <br> secondary peritonitis: An overview
 
 **Goal**
 
@@ -1413,25 +1379,10 @@ goals given high mortality.
 
 **Risk Stratification**
 
-+----------------+----------------+-----------------+
-| Risk Category  | Features       | Typical         |
-|                |                | Organisms       |
-+================+================+=================+
-| **Low-risk**   | Commu          | Susceptible     |
-|                | nity-acquired, | gram-negatives, |
-|                | no recent ho   | anaerobes       |
-|                | spitalization, |                 |
-|                | no imm         |                 |
-|                | unosuppression |                 |
-+----------------+----------------+-----------------+
-| **High-risk**  | Healthca       | MDR             |
-|                | re-associated, | gram-negatives, |
-|                | recent         | MRSA, Candida,  |
-|                | surgery, imm   | enterococci     |
-|                | unosuppressed, |                 |
-|                | prolonged h    |                 |
-|                | ospitalization |                 |
-+----------------+----------------+-----------------+
+| Risk Category | Features | Typical Organisms |
+|------------------------|------------------------|------------------------|
+| **Low-risk** | Community-acquired, no recent hospitalization, no immunosuppression | Susceptible gram-negatives, anaerobes |
+| **High-risk** | Healthcare-associated, recent surgery, immunosuppressed, prolonged hospitalization | MDR gram-negatives, MRSA, *Candida*, enterococci |
 
 **Timing**
 
@@ -1446,53 +1397,29 @@ depends on risk factors for resistant organisms and severity of
 presentation.
 :::
 
-------------------------------------------------------------------------
+## Antimicrobial therapy for secondary peritonitis: <br>Drug classes for aerobic coverage
 
-## Antimicrobial therapy for secondary peritonitis: Drug classes for aerobic coverage
+**Beta-Lactams with beta-Lactamase Inhibitors**
 
-**Beta-Lactams with Beta-Lactamase Inhibitors**
-
-+--------------+--------------+--------------+
-| Agent        | Dosing       | Notes        |
-+==============+==============+==============+
-| **Amoxicil l | 875-125 mg   | Oral;        |
-| i n -        | TID          | limited      |
-| c            |              | spectrum     |
-| lavulanate** |              |              |
-+--------------+--------------+--------------+
-| **Ampic i l  | 3 g IV Q6H   | Good         |
-| l i          |              | anaerobic    |
-| n            |              | coverage     |
-| -sulbactam** |              |              |
-+--------------+--------------+--------------+
-| **Piperaci l | 4.5 g IV     | Excellent    |
-| l i n        | Q6-8H        | coverage;    |
-| -            |              | pseudomonal  |
-| tazobactam** |              |              |
-+--------------+--------------+--------------+
+| Agent                       | Dosing         | Notes                           |
+|--------------------------|-----------------|-----------------------------|
+| **Amoxicillin-clavulanate** | 875–125 mg TID | Oral; limited spectrum          |
+| **Ampicillin-sulbactam**    | 3 g IV Q6H     | Good anaerobic coverage         |
+| **Piperacillin-tazobactam** | 4.5 g IV Q6–8H | Excellent coverage; pseudomonal |
 
 **Cephalosporins (typically combined with metronidazole)**
 
-+--------------+--------------+--------------+
-| Agent        | Dosing       | Notes        |
-+==============+==============+==============+
-| -   \*C      | 2 g IV       | Lower        |
-|              | Q12H +       | pseudomonal  |
-| e            | m            | coverage     |
-| f            | etronidazole |              |
-| triaxone\*\* | 500 mg TID   |              |
-+--------------+--------------+--------------+
-| -   \*C      | 2 g IV Q8H + | Better       |
-|              | m            | *            |
-| e            | etronidazole | Pseudomonas* |
-| f            | 500 mg TID   | coverage     |
-| tazidime\*\* |              |              |
-+--------------+--------------+--------------+
+| Agent | Dosing | Notes |
+|------------------------|------------------------|------------------------|
+| Ceftriaxone | 2 g IV Q12H + <br> metronidazole 500 mg TID | Lower pseudomonal coverage |
+| Ceftazidime | 2 g IV Q8H + <br> metronidazole 500 mg TID | Better *Pseudomonas* coverage |
 
-**Carbapenems** (broad spectrum, reserve use)
+**Carbapenems** (broad spectrum, both Gram negative and anaerobes-
+reserve use)
 
--   Meropenem 1 g IV Q8H
+-   Meropenem 1 g IV Q8H (or extended infusion)
 -   Imipenem-cilastatin 500 mg IV Q6H
+-   Ertapenem 1 g daily (does not cover P*seudomonas*)
 -   Excellent gram-negative and anaerobic coverage
 
 ::: notes
@@ -1503,31 +1430,22 @@ activity. Carbapenems are reserved for MDR organisms or
 monotherapy for anaerobes and should be avoided for primary therapy.
 :::
 
-------------------------------------------------------------------------
-
 ## Antimicrobial therapy for secondary peritonitis: Anaerobic coverage
 
 **Metronidazole**
 
--   Dosing: 500 mg IV Q6-8H or 400-500 mg PO TID
+-   Dosing: 500 mg IV Q6–8H or 400–500 mg PO TID
 -   Excellent anaerobic coverage
 -   Minimal aerobic gram-negative coverage
--   Always combine with aerobic agent
+-   *Always combine with aerobic agent*
 
 **Clindamycin**
 
--   Dosing: 600 mg IV Q6-8H
+-   Dosing: 600 mg IV Q6–8H
 -   Good anaerobic coverage
 -   Some gram-positive aerobes covered
--   Emerging resistance in Bacteroides
+-   Emerging resistance in *Bacteroides*
 -   Less preferred than metronidazole + cephalosporin
-
-**Chloramphenicol**
-
--   Dosing: 50 mg/kg/day in divided doses
--   Broad gram-negative and anaerobic coverage
--   Reserve for severe allergy or resistance
--   Hepatotoxicity concern
 
 **Carbapenems** (cover both aerobes and anaerobes)
 
@@ -1541,597 +1459,74 @@ of metronidazole with a cephalosporin is a time-tested, economical
 regimen for community-acquired secondary peritonitis. Carbapenems
 provide monotherapy but are reserved due to cost and resistance
 selection pressure unless patient has previous colonization or infection
-history with ESBLs
+history with ESBLs.
 :::
 
-## New antibiotics active against resistant <br>gram-negative bacilli {.smaller}
+## New antibiotics active against resistant <br> gram-negative bacilli {.smaller}
 
-+---+---+---+---+---+---+---+---+
-|   | - | - | - | - | - | - | - |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   | \ | \ | \ | \ | \ | \ | \ |
-|   | \ | \ | \ | \ | \ | \ | \ |
-|   | \ | \ | \ | \ | \ | \ | \ |
-|   | \ | \ | \ | \ | \ | \ | \ |
-|   | \ | \ | \ | \ | \ | \ | \ |
-|   | * | * | * | * | * | * | * |
-|   | E | A | K |   | M | C | C |
-|   | S |   |   | O |   |   |   |
-|   |   | m | P | X | B | R | R |
-|   | B |   |   | A |   |   |   |
-|   |   | p | C | - | L | A | P |
-|   | L |   |   |   |   |   |   |
-|   |   | C | \ | 4 | \ | B | A |
-|   | s |   | * | 8 | * |   |   |
-|   | \ | \ | \ | \ | \ | \ | \ |
-|   | * | * | * | \ | * | * | * |
-|   | \ | \ |   | * |   | \ | \ |
-|   | * | * |   | \ |   | * | * |
-|   |   |   |   | * |   |   |   |
-+===+:=:+:=:+:=:+:=:+:=:+:=:+:=:+
-| - | √ | √ | √ | √ | ± | X | X |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| P |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| z |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| ( |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| E |   |   |   |   |   |   |   |
-| U |   |   |   |   |   |   |   |
-| ) |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | √ | √ | √ | X |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| E |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| r |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| v |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| y |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | √ | √ | √ | X |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| T |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| g |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| y |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | X | X | X | X |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| T |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | √ | √ | √ | √ |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| C |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| f |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| d |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| r |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | √ | X | X | ± |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| C |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| f |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| z |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| d |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| / |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| v |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | X | X | X | X | X | √ |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| C |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| f |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-| z |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| / |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| z |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | X | X | X | X |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| M |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| r |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| p |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| / |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| v |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| o |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| r |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | X | X | X | ± |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| I |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| p |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| / |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| r |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| - | √ | √ | √ | √ | √ | X | ± |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| A |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| p |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| n |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| / |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| s |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| u |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| p |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| l |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| u |   |   |   |   |   |   |   |
-| s |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-| f |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| z |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-| d |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| e |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| / |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| v |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| i |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| b |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-| c |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| a |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| m |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-| \ |   |   |   |   |   |   |   |
-| * |   |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
+<br>
+
+::: {style="font-size: 0.75em;"}
+| Agent | ESBLs | AmpC | KPC | OXA-48 | MBL | CRAB | CRPA |
+|---------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| **Plazomicin** <br>(not available in EU) | ✓ | ✓ | ✓ | ✓ | ± | ✗ | ✗ |
+| **Eravacycline** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
+| **Tigecycline** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
+| **Temocillin** | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ |
+| **Cefiderocol** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Ceftazidime/avibactam** | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ± |
+| **Ceftolozane/tazobactam** | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ |
+| **Meropenem/vaborbactam** | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ |
+| **Imipenem/relebactam** | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ± |
+| **Ampicillin/sulbactam + ceftazidime/avibactam** | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ± |
+:::
 
 ::: aside
-To treat ESBL- or AmpC-producing Enterobacterales, all above antibiotics
-can be used except for ceftolozane/tazobactam against hyperproducing
-AmpC Enterobacterales. To treat ESBL-, AmpC- or KPC-producing
-Enterobacterales, all can be used, but ceftolozane/tazobactam. To treat
-ESBL-, AmpC, KPC, OXA-48 producing Enterobacterales, all but temocillin,
-ceftolozane/tazobactam. meropenem/vaborbactam, imipenem/relebactam. To
-treat ESBL-, AmpC, КРС, OXA-48, MBL-producing Enterobacterales, only
-eravacycline, tigecycline, cefiderocol, and ampicillin/sulbactam plus
-ceftazidime/avibactam. To treat CRAB, only eravacycline, tigecycline,
-cefiderocol. To treat CRPA only cefiderocol (ceftolozane/tazobactam only
-active against carbapenem-resistant, non-carbapenemase-producing
-Pseudomonas aeruginosa)
+ESBL- extended spectrum beta lactamase, AmpC- inducible extended beta
+lactamase, KPC, OXA-48 MBL are carbapenemases, CRAB-
+carbapenem-resistant Acinetobacer baumanii, CRPA- carbapenem-resistant
+*Pseudomonas* <br> To treat ESBL- or AmpC-producing Enterobacterales,
+all above antibiotics can be used except for ceftolozane/tazobactam
+against hyperproducing AmpC Enterobacterales. To treat KPC-producing
+Enterobacterales, all can be used but ceftolozane/tazobactam. To treat
+OXA-48 producers, all but temocillin, ceftolozane/tazobactam,
+meropenem/vaborbactam, and imipenem/relebactam. To treat MBL producers,
+only eravacycline, tigecycline, cefiderocol, and ampicillin/sulbactam
+plus ceftazidime/avibactam. To treat CRAB, only eravacycline,
+tigecycline, and cefiderocol. To treat CRPA, only cefiderocol
+(ceftolozane/tazobactam is only active against carbapenem-resistant,
+non-carbapenemase-producing *Pseudomonas aeruginosa*).
 :::
 
-## New agents for resistant organisms in secondary peritonitis {.smaller}
+## New agents for resistant organisms in <br> secondary peritonitis {.smaller}
+
+<br>
 
 **Extended-Spectrum Agents**
 
-+----------------+-------------------+----------------+
-| Agent          | Organism Coverage | When to Use    |
-+================+===================+================+
-| Ceftoloz       | Pseudomonas,      | Health c a     |
-| ane-tazobactam | resistant GN      | re-associated, |
-|                |                   | MDR risk       |
-+----------------+-------------------+----------------+
-| Ceftazi        | C a               | Suspected      |
-| dime-avibactam | r                 | resistance,    |
-|                | bapenem-resistant | prior          |
-|                | organisms, ESBLs  | carbapenems    |
-+----------------+-------------------+----------------+
-| Meropen        | M e t             | Last-resort    |
-| em-vaborbactam | a                 | therapy        |
-|                | llo-β-lactamases, |                |
-|                | c a               |                |
-|                | r                 |                |
-|                | bapenem-resistant |                |
-+----------------+-------------------+----------------+
+| Agent | Organism Coverage | When to Use |
+|------------------------|------------------------|------------------------|
+| Ceftolozane-tazobactam | Pseudomonas, resistant GN | Healthcare-associated, MDR risk |
+| Ceftazidime-avibactam | Carbapenem-resistant organisms, ESBLs | Suspected resistance, prior carbapenems |
+| Meropenem-vaborbactam | Metallo-β-lactamases, <br> carbapenem-resistant | Last-resort therapy |
 
-## **Anti-Candida Agents**
+## Anti-*Candida* Agents {.smaller}
 
 <br> <br>
 
-+----------------+----------------+-------------------+
-| Agent          | Dosing         | When to Use       |
-+================+================+===================+
-| Fluconazole    | 400-800 mg/day | Upper GI          |
-|                |                | perforation,      |
-|                |                | prolonged         |
-|                |                | hospitalization   |
-+----------------+----------------+-------------------+
-| Anidulafungin  | 200 mg         | Suspected         |
-|                | loading, then  | azole-resistant   |
-|                | 100 mg/day     | Candida           |
-+----------------+----------------+-------------------+
-| Caspofungin    | 70 mg loading, | Alternative to    |
-|                | then 50 mg/day | fluconazole,      |
-|                |                | Suspected         |
-|                |                | azole-resistant   |
-|                |                | Candida           |
-+----------------+----------------+-------------------+
-| Micafungin     | 100 mg daily   | Alternative to    |
-|                |                | fluconazole,      |
-|                |                | Suspected         |
-|                |                | azole-resistant   |
-|                |                | Candida           |
-+----------------+----------------+-------------------+
-| Liposomal      | 3-5 mg/kg/day  | Suspected         |
-| amphotericin B |                | azole-resistant   |
-|                |                | Candida,          |
-|                |                | nephrotoxic       |
-+----------------+----------------+-------------------+
+| Agent | Dosing | When to Use |
+|------------------------|------------------------|------------------------|
+| Fluconazole | 400–800 mg/day | Upper GI perforation, prolonged hospitalization |
+| Anidulafungin | 200 mg loading, then 100 mg/day | Suspected azole-resistant Candida |
+| Caspofungin | 70 mg loading, then 50 mg/day | Alternative to fluconazole, suspected azole-resistant Candida |
+| Micafungin | 100 mg daily | Alternative to fluconazole, suspected azole-resistant Candida |
+| Liposomal amphotericin B | 3–5 mg/kg/day | Suspected azole-resistant Candida, nephrotoxic |
 
-## **Vancomycin**
+## Vancomycin {.smaller}
 
 <br> <br>
 
--   Dosing: 15-20 mg/kg IV Q8-12H (goal trough 15-20 μg/mL)
+-   Dosing: 15–20 mg/kg IV Q8–12H (goal trough 15–20 μg/mL)
 -   For MRSA or severe penicillin allergy
 -   Reserve use to avoid resistance
 
@@ -2144,9 +1539,9 @@ presentation, and local resistance patterns. The combination of new
 high-risk healthcare-associated IAI.
 :::
 
-------------------------------------------------------------------------
-
 ## Source Control in Secondary Peritonitis {.smaller}
+
+<br>
 
 **Principles of Source Control**
 
@@ -2162,9 +1557,9 @@ high-risk healthcare-associated IAI.
 
 **Timing**
 
--   **Emergent** (within 1-2 hours): Perforation with peritonitis,
+-   **Emergent** (within 1–2 hours): Perforation with peritonitis,
     uncontrolled sepsis
--   **Urgent** (within 6-12 hours): Contained abscess, clinical
+-   **Urgent** (within 6–12 hours): Contained abscess, clinical
     deterioration
 -   **Delayed** (\>24 hours): Selected patients with localized
     collection responding to antibiotics
@@ -2177,21 +1572,19 @@ high-risk healthcare-associated IAI.
 -   Avoid contamination of clean peritoneal surfaces
 
 ::: aside
-Source control is often MORE important than antibiotics in secondary
-peritonitis. Antibiotics alone fail in cases of inadequate source
-control. The timing of surgery depends on presentation (shock vs.
-hemodynamically stable) and anatomical factors. Percutaneous drainage
-under CT guidance is increasingly used for select abscess collections,
-delaying or avoiding surgery.
+Source control is often ESSENTIAL in secondary peritonitis. Antibiotics
+alone fail in cases of inadequate source control. The timing of surgery
+depends on presentation (shock vs. hemodynamically stable) and
+anatomical factors. Percutaneous drainage under CT guidance is
+increasingly used for select abscess collections, delaying or avoiding
+surgery.
 :::
-
-------------------------------------------------------------------------
 
 ## Supportive Care in Secondary Peritonitis {.smaller}
 
 **Hemodynamic Management**
 
--   Aggressive fluid resuscitation (often requires 5-10 L in first 24
+-   Aggressive fluid resuscitation (often requires 5–10 L in first 24
     hours)
 -   Vasopressors if hypotension persists after fluids (norepinephrine
     first-line)
@@ -2199,14 +1592,15 @@ delaying or avoiding surgery.
 
 **Respiratory Support**
 
--   Mechanical ventilation if ARDS develops
+-   Mechanical ventilation if acute respiratory distress syndome (ARDS)
+    develops
 -   Positive end-expiratory pressure (PEEP) to improve oxygenation
 -   Careful fluid management to balance resuscitation and pulmonary
     edema
 
 **Nutritional Support**
 
--   **Enteral nutrition** when possible (preserves gut mucosa)
+-   Enteral nutrition when possible (preserves gut mucosa)
 -   Total parenteral nutrition if unable to tolerate enteral feeds
 -   Early nutrition improves outcomes and reduces infection risk
 
@@ -2223,8 +1617,6 @@ often from SIRS/sepsis and organ dysfunction, not bacterial infection
 per se. Early vasopressor support, mechanical ventilation, and
 nutritional intervention are standard in intensive care management.
 :::
-
-------------------------------------------------------------------------
 
 ## Prevention of Postoperative Peritonitis {.smaller}
 
@@ -2266,6 +1658,10 @@ occurs.
 
 # Peritoneal-dialysis associated peritonitis {background-color="#9B0014"}
 
+## Peritoneal dialysis
+
+![](images/pd2.png){fig-align="center"}
+
 ## PD-Associated peritonitis: Epidemiology {.smaller}
 
 ::::: columns
@@ -2278,7 +1674,7 @@ occurs.
 
 -   Major complication of peritoneal dialysis (CAPD, APD)
 -   Occurs in most dialysis patients over time
--   Recurrence rate: 20-30%
+-   Recurrence rate: 20–30%
 
 **Primary Reason for Modality Failure**
 
@@ -2313,47 +1709,26 @@ peritonitis is almost exclusively due to exogenous contamination.
 
 **Organism Distribution**
 
-+--------------+--------------+--------------+
-| Category     | Prevalence   | Examples     |
-+==============+==============+==============+
-| -   \*Gr a   | 60-80%       | *S.          |
-|              |              | epidermidis, |
-| m            |              | S. aureus,   |
-| -            |              | S            |
-| positive\*\* |              | treptococcus |
-|              |              | spp.*        |
-+--------------+--------------+--------------+
-| -   \*Gr a   | 15-30%       | *E. coli,    |
-|              |              | Klebsiella*, |
-| m            |              | E n t        |
-| -            |              | e            |
-| negative\*\* |              | robacterales |
-+--------------+--------------+--------------+
-| **Fungi**    | 5-10%        | *Candida     |
-|              | (increasing) | spp.*, rare  |
-|              |              | molds        |
-+--------------+--------------+--------------+
-| -   \*My     | \<5%         | *M. tubercu  |
-|              |              | l o s i      |
-| c            |              | s            |
-| o            |              | *(geographic |
-| bacteria\*\* |              | dependent)   |
-+--------------+--------------+--------------+
+| Category | Prevalence | Examples |
+|------------------------|------------------------|------------------------|
+| Gram-positive | 60–80% | *S. epidermidis, S. aureus, Streptococcus spp.* |
+| Gram-negative | 15–30% | *E. coli, Klebsiella*, Enterobacterales |
+| **Fungi** | 5–10% (increasing) | *Candida spp.*, rare molds |
+| Mycobacteria | \<5% | *M. tuberculosis* <br> (geographic dependent) |
 
 **Common Pathogens**
 
--   **Coagulase-negative staphylococci (*S. epidermidis*)**: Most common
+-   Coagulase-negative staphylococci (*S. epidermidis*): Most common
     gram-positive
--   **S. aureus**: Often from patient's skin flora, more virulent
--   **Streptococcus spp.**: May indicate bowel translocation
--   **Enterococci**: Rare but significant if present
--   **Pseudomonas**: Often healthcare-associated, poor prognosis
+-   *S. aureus*: Often from patient's skin flora, more virulent
+-   *Streptococcus* spp.: May indicate bowel translocation
+-   Enterococci: Rare but significant if present
+-   P*seudomonas*: Often healthcare-associated, poor prognosis
 
 **Biofilm Considerations**
 
--   S. epidermidis forms biofilm on catheter
--   Protects from immune response and antibiotics
--   May require catheter removal for cure
+-   *S. epidermidis* forms biofilm on catheter, protects from immune
+    response and antibiotics
 
 ::: notes
 The dominance of gram-positives (unlike secondary peritonitis) reflects
@@ -2373,17 +1748,17 @@ Diagnosis requires 2 of 3:
 
 1.  **Cloudy peritoneal effluent** (visual inspection)
 2.  **Peritoneal WBC \>100 cells/mm³** (typically \>50% PMN)
-3.  **Positive dialysate culture** or Gram stain
+3.  **Positive dialysate culture** **or Gram stain**
 
 **Typical Laboratory Findings**
 
 | Parameter            | Finding                                  |
 |----------------------|------------------------------------------|
 | **Appearance**       | Cloudy/turbid (vs. clear in health)      |
-| **WBC count**        | \>100/mm³, usually 500-10,000            |
+| **WBC count**        | \>100/mm³, usually 500–10,000            |
 | **PMN predominance** | \>50% (polymorphonuclear)                |
-| **Bacteria**         | Gram stain positive in 40-50%            |
-| **Culture yield**    | Positive in 90-95% with proper technique |
+| **Bacteria**         | Gram stain positive in 40–50%            |
+| **Culture yield**    | Positive in 90–95% with proper technique |
 
 **Specimen Collection**
 
@@ -2405,41 +1780,34 @@ Some centers use BACTEC automated systems to improve organism recovery.
 
 **Empiric Therapy**
 
--   **Intraperitoneal (IP) antibiotics** preferred
+-   **Intraperitoneal (IP) antibiotics preferred**
 -   Cover gram-positives initially (cefazolin or vancomycin)
 -   Add gram-negative coverage (ceftazidime or aminoglycoside)
 
 **Standard IP Regimens**
 
-+----------------+----------------------+----------------+
-| Agent          | Dosing               | Target         |
-|                | (Bolus/Maintenance)  |                |
-+================+======================+================+
-| **Cefazolin**  | 500 mg/2 L exchanges | Gram-positive  |
-|                | / 125 mg/2 L         | coverage       |
-+----------------+----------------------+----------------+
-| Ceftazidime    | 500 mg/2 L exchanges | Gram-negative, |
-|                | / 125 mg/2 L         | Pseudomonas    |
-+----------------+----------------------+----------------+
-| **Vancomycin** | 30 mg/kg loading /   | MRSA,          |
-|                | 15 mg/kg per         | resistant      |
-|                | exchange             | gram-positive  |
-+----------------+----------------------+----------------+
+| Agent | Dosing (Bolus / Maintenance) | Target |
+|------------------------|------------------------|------------------------|
+| **Cefazolin** | 500 mg/2 L exchanges / 125 mg/2 L | Gram-positive coverage |
+| **Ceftazidime** | 500 mg/2 L exchanges / 125 mg/2 L | Gram-negative, Pseudomonas |
+| **Vancomycin** | 30 mg/kg loading / 15 mg/kg per exchange | MRSA, resistant gram-positive |
 
 **Duration**
 
--   **ISPD guidelines**: 14-21 days of IP antibiotics
--   Assess response at 2-5 days (peritoneal fluid should clear)
+-   **ISPD guidelines**: 14–21 days of IP antibiotics, assess response
+    at 2–5 days (peritoneal fluid should clear)
 -   Culture results guide de-escalation
 
-**Catheter Management**
+## **Dialysis catheter management**
+
+<br>
 
 -   Continue CAPD during treatment (antibiotics via dialysate)
--   Remove catheter if no improvement by day 4-5
+-   Remove catheter if no improvement by day 4–5
 -   Remove catheter for fungal peritonitis (usually)
 -   Remove if exit-site or tunnel infection present
 
-::: smaller
+::: aside
 IP administration achieves high local concentrations and is preferred to
 IV therapy. Continuous IP exposure (via each exchange) maintains levels
 better than intermittent dosing. Patient tolerance of continued CAPD
@@ -2453,22 +1821,21 @@ therapy and temporary hemodialysis.
 
 **Fungal PD Peritonitis**
 
--   Incidence: 5-10% of all CAPD peritonitis
--   Most common: Candida spp. (\>90% of fungal cases)
+-   Incidence: 5–10% of all CAPD peritonitis: Most common: Candida spp.
+    (\>90% of fungal cases)
 -   Risk factors: prior antibiotics, immunosuppression, diabetes
 
 **Management of Fungal Peritonitis**
 
--   **Antifungal agents** (fluconazole, amphotericin B)
+-   **Antifungal agents** (fluconazole, amphotericin B): Often requires
+    IV therapy in addition to IP
 -   **Mandatory catheter removal** (biofilm barrier limits drug
     penetration)
--   Often requires IV therapy in addition to IP
 
 **Mycobacterial PD Peritonitis**
 
--   **M. tuberculosis**: Geographic variation (high in endemic areas)
+-   ***M. tuberculosis***: Geographic variation (high in endemic areas)
 -   **Nontuberculous mycobacteria** (NTM): Rising incidence
--   Risk factors: positive TB history, immunosuppression
 
 **Management of Mycobacterial Peritonitis**
 
@@ -2491,15 +1858,15 @@ considered in high-risk patients with chronic, low-grade peritonitis.
 
 **Outcomes with Treatment**
 
--   **Resolution**: 90-95% of bacterial peritonitis cured with
+-   **Resolution**: 90–95% of bacterial peritonitis cured with
     appropriate therapy
--   **Recurrence**: 20-30% of patients experience repeat episodes
--   **Modality failure**: 30-40% eventually switch to hemodialysis
+-   **Recurrence**: 20–30% of patients experience repeat episodes
+-   **Modality failure**: 30–40% eventually switch to hemodialysis
 
 **Indications for Catheter Removal**
 
 -   **Fungal peritonitis** (almost universally)
--   **Failure to respond** by 4-5 days of therapy
+-   **Failure to respond** by 4–5 days of therapy
 -   **Exit-site or tunnel infection** with peritonitis
 -   **Polymicrobial peritonitis** (suggests bowel perforation; need
     imaging)
@@ -2534,42 +1901,13 @@ to prevent progression to peritonitis.
 
 **Common Locations**
 
-+----------------+----------------+--------------------+
-| Location       | Frequency      | Clinical Features  |
-+================+================+====================+
-| Pelvic \|      |                |                    |
-| 30-40% \|      |                |                    |
-| Dependent      |                |                    |
-| site;          |                |                    |
-| difficult \|   |                |                    |
-| \| \| to       |                |                    |
-| examine        |                |                    |
-+----------------+----------------+--------------------+
-| Paracolic \|   |                |                    |
-| 20-30% \|      |                |                    |
-| Follow colon   |                |                    |
-| anatomy \|     |                |                    |
-| gutters \| \|  |                |                    |
-| \|             |                |                    |
-+----------------+----------------+--------------------+
-| Subphrenic \|  |                |                    |
-| 15-20% \|      |                |                    |
-| Upper abdomen; |                |                    |
-| may \| \| \|   |                |                    |
-| irritate       |                |                    |
-| diaphragm      |                |                    |
-+----------------+----------------+--------------------+
-| Hepat \|       |                |                    |
-| 10-15% \| Near |                |                    |
-| hepatic hilum, |                |                    |
-| \| i \| \|     |                |                    |
-| fissures c/P   |                |                    |
-| erihepatic\*\* |                |                    |
-| \| \|          |                |                    |
-+----------------+----------------+--------------------+
-| **Morrison's   | 5-10%          | Dependent upper    |
-| pouch**        |                | abdomen            |
-+----------------+----------------+--------------------+
+| Location          | Frequency | Clinical Features                     |
+|-------------------|-----------|---------------------------------------|
+| Pelvic            | 30–40%    | Dependent site; difficult to examine  |
+| Paracolic gutters | 20–30%    | Follow colon anatomy                  |
+| Subphrenic        | 15–20%    | Upper abdomen; may irritate diaphragm |
+| Perihepatic       | 10–15%    | Near hepatic hilum, fissures          |
+| Morrison's pouch  | 5–10%     | Dependent upper abdomen               |
 
 **Formation Mechanism**
 
@@ -2586,23 +1924,21 @@ pathology. Knowledge of dependent recesses guides imaging assessment and
 drainage planning.
 :::
 
-------------------------------------------------------------------------
-
 ## Intraperitoneal Abscesses: Microbiology
 
 **Organism Characteristics**
 
--   **Polymicrobial** (usually 2-5 organisms)
+-   **Polymicrobial** (usually 2–5 organisms)
 -   Reflects organisms from primary source (GI tract)
 -   Similar to secondary peritonitis microbiology
 
 **Common Organisms**
 
--   E. coli (gram-negative rod)
--   Bacteroides fragilis (obligate anaerobe)
--   Streptococcus spp. (gram-positive cocci)
--   Enterococcus spp. (gram-positive coccus)
--   Other anaerobes (Peptostreptococcus, Clostridium)
+-   \*E. coli\* (gram-negative rod)
+-   *Bacteroides fragilis* (obligate anaerobe)
+-   *Streptococcus* spp. (gram-positive cocci)
+-   *Enterococcus* spp. (gram-positive coccus)
+-   Other anaerobes (*Peptostreptococcus, Clostridium*)
 
 **Culture Characteristics**
 
@@ -2615,7 +1951,7 @@ drainage planning.
 **Implications for Therapy**
 
 -   Broad-spectrum empiric coverage needed
--   Β-lactam + anaerobic agent, or carbapenem
+-   β-lactam + anaerobic agent, or carbapenem
 -   Culture-guided de-escalation critical
 -   Drainage required in addition to antibiotics
 
@@ -2631,29 +1967,19 @@ aerobes and anaerobes.
 
 ## Intraperitoneal Abscesses: Clinical Presentation
 
-**Symptoms**
+**Symptoms** - **Fever** (may be low-grade, intermittent) - **Localized
+abdominal or flank pain** (depending on location) - **GI symptoms**:
+nausea, vomiting, anorexia (if gastric irritation) - **Urinary
+symptoms**: dysuria, frequency (if bladder compression) - **Subphrenic
+abscess**: Shoulder pain (referred), dyspnea
 
-::: incremental
--   **Fever** (may be low-grade, intermittent)
--   **Localized abdominal or flank pain** (depending on location)
--   **GI symptoms**: nausea, vomiting, anorexia (if gastric irritation)
--   **Urinary symptoms**: dysuria, frequency (if bladder compression)
--   **Subphrenic abscess**: Shoulder pain (referred), dyspnea
-:::
+**Physical Findings** - Localized abdominal tenderness (over abscess
+site) - Palpable mass (large collections only) - Fever - Hemodynamic
+instability (if large, with systemic toxicity)
 
-**Physical Findings**
-
--   Localized abdominal tenderness (over abscess site)
--   Palpable mass (large collections only)
--   Fever
--   Hemodynamic instability (if large, with systemic toxicity)
-
-**Laboratory/Imaging Abnormalities**
-
--   Leukocytosis (may be modest in chronic abscess)
--   Elevated CRP
--   CT findings: Fluid collection with enhancing rim, air-fluid level if
-    gasforming organism
+**Laboratory/Imaging Abnormalities** - Leukocytosis (may be modest in
+chronic abscess) - Elevated CRP - CT findings: Fluid collection with
+enhancing rim, air-fluid level if gas-forming organism
 
 ::: aside
 Abscess presentation can be subtle compared to acute peritonitis. Some
@@ -2669,31 +1995,16 @@ finding. Imaging is critical for diagnosis and localization.
 
 **Imaging Modalities**
 
-+--------------+--------------+--------------+
-| Modality     | Sensitivity  | Utility      |
-+==============+==============+==============+
-| **CT with IV | 95-97%       | Gold         |
-| contrast**   |              | standard;    |
-|              |              | l            |
-|              |              | ocalization; |
-|              |              | guidance for |
-|              |              | drainage     |
-+--------------+--------------+--------------+
-| -   \*Ul     | 90-95%       | Real-time,   |
-| trasound\*\* |              | portable;    |
-|              |              | bedside      |
-|              |              | assessment   |
-+--------------+--------------+--------------+
-| **MRI**      | 90-95%       | Excellent    |
-|              |              | soft tissue; |
-|              |              | limited in   |
-|              |              | acute care   |
-+--------------+--------------+--------------+
+| Modality | Sensitivity | Utility |
+|------------------------|------------------------|------------------------|
+| **CT with IV contrast** | 95–97% | Gold standard; localization; guidance for drainage |
+| **Ultrasound** | 90–95% | Real-time, portable; bedside assessment |
+| **MRI** | 90–95% | Excellent soft tissue; limited in acute care |
 
 **CT Findings**
 
 -   Fluid collection with enhancing rim
--   Air-fluid level (gasforming organisms)
+-   Air-fluid level (gas-forming organisms)
 -   Loculation (multiloculated abscesses)
 -   Associated organ pathology
 -   Size and location relative to surrounding structures
@@ -2707,7 +2018,7 @@ finding. Imaging is critical for diagnosis and localization.
 ::: notes
 CT is the imaging gold standard and serves dual purposes: diagnosis and
 guidance for drainage. The enhancing rim reflects inflammation and
-abscess wall. Air within the collection suggests gasforming organisms
+abscess wall. Air within the collection suggests gas-forming organisms
 (E. coli, Bacteroides, some Clostridia). MRI is excellent for diagnosis
 but is impractical in acute care due to scan time.
 :::
@@ -2717,61 +2028,65 @@ but is impractical in acute care due to scan time.
 ![](images/abscess.png){fig-align="center"}
 
 ::: aside
-1\. At least two large loculated fluid collections with rim enhancement
-measuring up to 10.2 cm in the right paracolic gutter and 13.6 cm in the
-pelvis. These may represent seromas in the postsurgical setting versus
-abscesses.
+1.  At least two large loculated fluid collections with rim enhancement
+    measuring up to 10.2 cm in the right paracolic gutter and 13.6 cm in
+    the pelvis. These may represent seromas in the postsurgical setting
+    versus abscesses.
 
-2\. Mild mesenteric fat stranding in the lower abdomen and pelvis,
-likely related to postsurgical changes within acute inflammatory process
-not excluded.
+2.  Mild mesenteric fat stranding in the lower abdomen and pelvis,
+    likely related to postsurgical changes within acute inflammatory
+    process not excluded.
 
-3\. Additional cystic focus in the left pelvis measuring approximately
-2.4 cm which may represent an additional loculated fluid collection
-versus cyst arising from the left ovary.
+3.  Additional cystic focus in the left pelvis measuring approximately
+    2.4 cm which may represent an additional loculated fluid collection
+    versus cyst arising from the left ovary.
 
-4\. Small to moderate left pleural effusion with adjacent atelectasis.
+4.  Small to moderate left pleural effusion with adjacent atelectasis.
 
-5\. Minimal subcutaneous emphysema along the right lower ventral
-abdominal wall, may represent postsurgical changes versus infection.
+5.  Minimal subcutaneous emphysema along the right lower ventral
+    abdominal wall, may represent postsurgical changes versus infection.
 :::
 
-## Intraperitoneal Abscesses: Treatment - Drainage Decisions
+## Liver abscess
+
+![](images/liver_abscess.png){fig-align="center"}
+
+::: aside
+The illustration shows multiple liver abscesses with an arrow and
+abnormal terminal ileum in panel A, and a percutaneously placed drain in
+one abscess in panel B. Panel A shows a computed tomography scan of the
+abdomen and pelvis in a coronal view, indicating multiple liver
+abscesses, marked with an arrow, and an abnormal terminal ileum located
+caudal to the liver. The abscesses are surrounded by secondarily
+infected ascites. Panel B presents a computed tomography scan in an
+axial view, showing a percutaneously placed drain in one of the liver
+abscesses. Arrows point to the areas of concern in both panels,
+including the abscesses and the drain placement.
+:::
+
+## Intraperitoneal Abscesses: Treatment — Drainage Decisions
 
 **Percutaneous vs. Surgical Drainage**
 
-+----------------+------------------+----------------+
-| Factor         | Percutaneous     | Surgical       |
-+================+==================+================+
-| **Access**     | Image-guided     | Direct         |
-|                | (CT/US)          | visualization  |
-+----------------+------------------+----------------+
-| Invasiveness   | Minimally        | Formal         |
-|                | invasive         | operation      |
-+----------------+------------------+----------------+
-| **Morbidity**  | Lower            | Higher         |
-|                |                  | (general       |
-|                |                  | anesthesia,    |
-|                |                  | incisions)     |
-+----------------+------------------+----------------+
-| **Efficacy**   | 80-90% success   | Near 100%      |
-|                |                  | success        |
-+----------------+------------------+----------------+
-| **Best used    | Accessible       | Inaccessible   |
-| in**           | collections,     | collections,   |
-|                | stable patient   | unstable       |
-|                |                  | patient        |
-+----------------+------------------+----------------+
+| Factor | Percutaneous | Surgical |
+|------------------------|------------------------|------------------------|
+| **Access** | Image-guided (CT/US) | Direct visualization |
+| **Invasiveness** | Minimally invasive | Formal operation |
+| **Morbidity** | Lower | Higher (general anesthesia, incisions) |
+| **Efficacy** | 80–90% success | Near 100% success |
+| **Best used in** | Accessible collections, stable patient | Inaccessible collections, unstable patient |
 
 **Selection Criteria for Percutaneous Drainage**
 
-::: incremental
--   **Accessible** collection (not multiloculated or complex)
--   **\>3-4 cm** in diameter (smaller often respond to antibiotics
-    alone)
--   **Hemodynamically stable** patient
--   **Expertise available** for image-guided drainage
-:::
+-   Accessible collection (not multiloculated or complex)
+
+-   
+
+    > 3–4 cm in diameter (smaller often respond to antibiotics alone)
+
+-   Hemodynamically stable patient
+
+-   Expertise available for image-guided drainage
 
 **When Surgery is Preferred**
 
@@ -2796,15 +2111,15 @@ antibiotics is the standard; antibiotics alone are inadequate.
 **Duration and Route**
 
 -   **IV therapy** initially (acute abscess)
--   **Transition to oral** after clinical improvement (usually 7-10 days
+-   **Transition to oral** after clinical improvement (usually 7–10 days
     IV, then oral)
--   **Total course**: 10-14 days (shorter if source controlled and
+-   **Total course**: 10–14 days (shorter if source controlled and
     drained)
 
 **Empiric Regimen**
 
--   **Β-lactam + β-lactamase inhibitor**: Piperacillin-tazobactam 4.5 g
-    Q6-8H
+-   **β-lactam + β-lactamase inhibitor**: Piperacillin-tazobactam 4.5 g
+    Q6–8H
 -   **Or cephalosporin + metronidazole**: Ceftriaxone 2 g Q12H +
     metronidazole 500 mg TID
 -   **Or carbapenem**: Meropenem 1 g Q8H
@@ -2835,30 +2150,18 @@ authorities advocate procalcitonin-guided therapy duration.
 
 **Outcomes with Appropriate Management**
 
--   **Cure rate**: 85-95% with combined drainage and antibiotics
--   **Mortality**: 5-15% (higher in elderly, immunocompromised)
+-   **Cure rate**: 85–95% with combined drainage and antibiotics
+-   **Mortality**: 5–15% (higher in elderly, immunocompromised)
 
 **Factors Affecting Prognosis**
 
-+------------------------+------------------------+
-| Factor                 | Impact                 |
-+========================+========================+
-| **Time to diagnosis**  | Delayed diagnosis →    |
-|                        | higher mortality       |
-+------------------------+------------------------+
-| **Size \>5 cm**        | Larger collections →   |
-|                        | worse prognosis        |
-+------------------------+------------------------+
-| **Multiple organisms   | More virulent; worse   |
-| (esp. anaerobes)**     | outcome                |
-+------------------------+------------------------+
-| **Associated           | Indicates severe       |
-| peritonitis**          | primary disease        |
-+------------------------+------------------------+
-| **Patient age,         | Older,                 |
-| comorbidities**        | immunocompromised →    |
-|                        | worse                  |
-+------------------------+------------------------+
+| Factor | Impact |
+|------------------------------------|------------------------------------|
+| **Time to diagnosis** | Delayed diagnosis → higher mortality |
+| **Size \>5 cm** | Larger collections → worse prognosis |
+| **Multiple organisms (esp. anaerobes)** | More virulent; worse outcome |
+| **Associated peritonitis** | Indicates severe primary disease |
+| **Patient age, comorbidities** | Older, immunocompromised → worse |
 
 **Complications of Treatment**
 
@@ -2866,7 +2169,7 @@ authorities advocate procalcitonin-guided therapy duration.
     not controlled
 -   **Fistula formation**: If drain erodes into viscus
 -   **Drain site infection**: May progress if not managed
--   **Incomplete resolution**: Imaging follow-up recommended at 4-6
+-   **Incomplete resolution**: Imaging follow-up recommended at 4–6
     weeks
 
 ::: notes
@@ -2890,10 +2193,10 @@ important to ensure complete resolution and to detect any recurrence.
     positive culture.
 
 2.  **SBP prevention with antibiotics** (norfloxacin primary
-    prophylaxis) reduces incidence 50-60%; secondary prophylaxis after
+    prophylaxis) reduces incidence 50–60%; secondary prophylaxis after
     first episode is lifelong.
 
-3.  **Secondary peritonitis (80-90% of cases)** is polymicrobial,
+3.  **Secondary peritonitis (80–90% of cases)** is polymicrobial,
     requires source control, and mortality is more dependent on adequacy
     of drainage/surgery than antibiotic choice.
 
@@ -2902,7 +2205,7 @@ important to ensure complete resolution and to detect any recurrence.
     options for community-acquired secondary peritonitis.
 
 5.  **Tertiary peritonitis** (persistent after source control) carries
-    30-64% mortality; repeated surgery often worsens outcomes;
+    30–64% mortality; repeated surgery often worsens outcomes;
     supportive care and selective re-imaging are key.
 
 ::: notes
@@ -2923,7 +2226,7 @@ control, and appropriate empiric therapy guided by clinical context.
     pain and leukocytosis.
 
 8.  **CAPD peritonitis is predominantly gram-positive** (touch
-    contamination) and responds to IP antibiotics in 90-95%; fungal
+    contamination) and responds to IP antibiotics in 90–95%; fungal
     peritonitis requires catheter removal.
 
 9.  **Intraperitoneal abscesses require both drainage and antibiotics**;
@@ -2944,32 +2247,11 @@ antibiotic chosen.
 
 ------------------------------------------------------------------------
 
-## Algorithm: Approach to Suspected IAI
+## Algorithm: Approach to Suspected IAI {.smaller}
 
-```         
-SUSPECTED INTRAABDOMINAL INFECTION
-         ↓
-    Obtain imaging (CT)
-         ↓
-┌────────────────────────────┐
-│  Primary peritonitis?      │ → Monomicrobial, no source
-│  (no GI source, SBP?)      │   → Cefotaxime + albumin
-└────────────────────────────┘   → 5 days IV therapy
-         ↓
-┌────────────────────────────┐
-│  Secondary peritonitis?    │ → Perforation/abscess evident
-│  (clear GI source)         │   → Empiric broad-spectrum
-└────────────────────────────┘   → Source control (surgery/drain)
-         ↓                       → 10-14 days total
-┌────────────────────────────┐
-│  CAPD-associated?          │ → Gram-positive predominant
-│  (peritoneal dialysis)     │   → IP antibiotics 14-21 days
-└────────────────────────────┘   → ± catheter removal
-         ↓
-   Clinical deterioration?
-   Re-image (CT) → new source/abscess?
-   Consider tertiary peritonitis
-```
+<iframe src="images/intraabdominal-infection-algorithm.html" width="100%" height="600" style="border:none;">
+
+</iframe>
 
 ::: notes
 This algorithm summarizes the diagnostic approach. The key branch points
@@ -2979,13 +2261,12 @@ responding to therapy? Persistent fever or deterioration warrants repeat
 imaging to rule out missed/recurrent infection.
 :::
 
-------------------------------------------------------------------------
+## When to Worry: Red Flags for MDR Organisms {.smaller}
 
-## When to Worry: Red Flags for MDR Organisms
+<br> <br>
 
 **High-Risk Features for Resistant Pathogens**
 
-::: incremental
 -   **Healthcare-associated infection** (recent hospitalization,
     surgery, invasive procedure)
 -   **MRSA colonization** or prior MRSA infection
@@ -2996,7 +2277,6 @@ imaging to rule out missed/recurrent infection.
 -   **Candida species** in blood cultures or peritoneal fluid
 -   **Diabetic or renal failure** patients
 -   **Polymicrobial bacteremia** with unusual organisms
-:::
 
 **Modified Empiric Therapy for High-Risk Patients**
 
@@ -3014,79 +2294,17 @@ organisms and require broader, empiric coverage. De-escalation based on
 cultures is important to prevent antibiotic resistance development.
 :::
 
-------------------------------------------------------------------------
+## Quick Reference: <br> Empiric Antibiotic Selection by Scenario
 
-## Quick Reference: Empiric Antibiotic Selection by Scenario
+<br> <br>
 
-+--------+--------+--------+--------+
-| C      | F i r  | A l t  | D      |
-| l      | s      | e      | u      |
-| inical | t-Line | r      | ration |
-| S      | E      | native |        |
-| c      | mpiric |        |        |
-| enario |        |        |        |
-+========+========+========+========+
-| -   \* | C e f  | C i p  | 5 days |
-|     P  | o      | r o f  |        |
-| rimary | taxime | l      |        |
-|     p  | 2g     | oxacin |        |
-|     e  | Q6-8H  | 400mg  |        |
-|     r  |        | PO     |        |
-|     i  |        | Q12H   |        |
-|     t  |        |        |        |
-| onitis |        |        |        |
-|     (S |        |        |        |
-|     B  |        |        |        |
-| P)\*\* |        |        |        |
-+--------+--------+--------+--------+
-| -   \* | P i    | C e f  | 10-14  |
-|        | p      | t      | days   |
-| S e    | eracil | r      |        |
-| c      | l i    | iaxone |        |
-| ondary | n - t  | 2g     |        |
-| p e r  | a z    | Q12H + |        |
-|        | o      | m e t  |        |
-| i t    | bactam | r o n  |        |
-| o      | 4.5g   | i      |        |
-| nitis, | Q6-8H  | dazole |        |
-|        |        | 500mg  |        |
-| CA\*\* |        | TID    |        |
-+--------+--------+--------+--------+
-| -   \* | C e p  | C a r  | 10-14  |
-|        | h a l  | b      | days   |
-| S e    | o s    | apenem |        |
-| c      | p      | ± a n  |        |
-| ondary | orin + | t i    |        |
-| p e r  | v a n  | -      |        |
-|        | c o    | fungal |        |
-| i t    | m      |        |        |
-| o      | ycin + |        |        |
-| nitis, | a n t  |        |        |
-|        | i -    |        |        |
-| HA\*\* | C      |        |        |
-|        | andida |        |        |
-+--------+--------+--------+--------+
-| **CAPD | C e    | V a n  | 14-21  |
-| p e r  | f      | c      | days   |
-| i t o  | azolin | omycin |        |
-| n      | IP + c | IP     |        |
-| itis** | e f t  |        |        |
-|        | a      |        |        |
-|        | zidime |        |        |
-|        | IP     |        |        |
-+--------+--------+--------+--------+
-| ## \*  | P i    | C e f  | 10-14  |
-|        | p      | t r i  | days   |
-| \*In t | eracil | a      |        |
-| r a    | l i    | xone + |        |
-|        | n - t  | m e t  |        |
-| p e r  | a z    | r o n  |        |
-| i      | o      | i      |        |
-| toneal | bactam | dazole |        |
-| ab s c | 4.5g   |        |        |
-| e      | Q6-8H  |        |        |
-| ss\*\* |        |        |        |
-+--------+--------+--------+--------+
+| Clinical Scenario | First-Line Empiric | Alternative | Duration |
+|------------------|------------------|------------------|------------------|
+| **Primary peritonitis (SBP)** | Cefotaxime 2 g Q6–8H | Ciprofloxacin 400 mg PO Q12H | 5 days |
+| **Secondary peritonitis, CA** | Piperacillin-tazobactam 4.5 g Q6–8H | Ceftriaxone 2 g Q12H + metronidazole 500 mg TID | 10–14 days |
+| **Secondary peritonitis, HA** | 3rd-4th gen Cephalosporin + vancomycin + anti-Candida | Carbapenem ± antifungal | 10–14 days |
+| **CAPD peritonitis** | Cefazolin IP + ceftazidime IP | Vancomycin IP | 14–21 days |
+| **Intraperitoneal abscess** | Piperacillin-tazobactam 4.5 g Q6–8H | Ceftriaxone + metronidazole | 10–14 days |
 
 **Abbreviations:** CA = community-acquired; HA = healthcare-associated;
 IP = intraperitoneal
@@ -3099,9 +2317,7 @@ dysfunction. Infectious diseases consultation is appropriate for
 high-risk or refractory cases.
 :::
 
-------------------------------------------------------------------------
-
-## Questions and Further Learning
+## Further Learning
 
 **Key References**
 
@@ -3115,12 +2331,6 @@ high-risk or refractory cases.
 -   Multidrug-resistant organisms and healthcare epidemiology: Recent
     advances and clinical perspectives. *Crit Care Med*. 2023.
 
-::: notes
-These resources provide deeper dives into specific topics and offer
-access to the most current literature on emerging resistance and
-treatment approaches. Many hospitals have access to UpToDate through
-institutional subscriptions, and IDSA guidelines are freely available
-online.
-:::
+## References
 
-------------------------------------------------------------------------
+<br> <br>

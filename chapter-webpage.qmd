@@ -2,8 +2,7 @@
 title: "Intraabdominal Infections"
 subtitle: "Peritonitis and Intraperitoneal Abscesses"
 author:
-  - name: "Larry M. Bush"
-  - name: "Matthew E. Levison"
+  - name: "Russell E. Lewis"
 date: "2026-02-27"
 format:
   html:
